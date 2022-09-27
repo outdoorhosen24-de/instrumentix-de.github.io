@@ -1,107 +1,233 @@
 [
     {
-        "key": "insektenschutz",
-        "name": "Insektenschutz",
-        "slug": "insektenschutz",
-        "productCategory": "Insektenschutz",
+        "key": "kühlschränke",
+        "name": "Kühlschränke",
+        "slug": "kuhlschranke",
+        "productCategory": "Kühlschränke",
         "subCategories": []
     },
     {
-        "key": "fliegengittertüren",
-        "name": "Fliegengittertüren",
-        "slug": "fliegengitterturen",
-        "productCategory": "Fliegengittertüren",
+        "key": "kühl-gefrierkombinationen",
+        "name": "Kühl-Gefrierkombinationen",
+        "slug": "kuhl-gefrierkombinationen",
+        "productCategory": "Kühl-Gefrierkombinationen",
         "subCategories": []
     },
     {
-        "key": "plissees",
-        "name": "Plissees",
-        "slug": "plissees",
-        "productCategory": "Plissees",
+        "key": "haushaltsgeräte",
+        "name": "Haushaltsgeräte",
+        "slug": "haushaltsgerate",
+        "productCategory": "Haushaltsgeräte",
         "subCategories": []
     },
     {
-        "key": "insektenschutzrahmen",
-        "name": "Insektenschutzrahmen",
-        "slug": "insektenschutzrahmen",
-        "productCategory": "Insektenschutzrahmen",
+        "key": "weitere küchenkleingeräte",
+        "name": "Weitere Küchenkleingeräte",
+        "slug": "weitere-kuchenkleingerate",
+        "productCategory": "Weitere Küchenkleingeräte",
         "subCategories": []
     },
     {
-        "key": "stil- & seilspanngarnituren",
-        "name": "Stil- & Seilspanngarnituren",
-        "slug": "stil-seilspanngarnituren",
-        "productCategory": "Stil- & Seilspanngarnituren",
+        "key": "kochfelder",
+        "name": "Kochfelder",
+        "slug": "kochfelder",
+        "productCategory": "Kochfelder",
         "subCategories": []
     },
     {
-        "key": "lamellenvorhänge",
-        "name": "Lamellenvorhänge",
-        "slug": "lamellenvorhange",
-        "productCategory": "Lamellenvorhänge",
+        "key": "glaskeramik-kochfelder",
+        "name": "Glaskeramik-Kochfelder",
+        "slug": "glaskeramik-kochfelder",
+        "productCategory": "Glaskeramik-Kochfelder",
         "subCategories": []
     },
     {
-        "key": "rollos & raffrollos",
-        "name": "Rollos & Raffrollos",
-        "slug": "rollos-raffrollos",
-        "productCategory": "Rollos & Raffrollos",
+        "key": "einbaukühlschränke",
+        "name": "Einbaukühlschränke",
+        "slug": "einbaukuhlschranke",
+        "productCategory": "Einbaukühlschränke",
         "subCategories": []
     },
     {
-        "key": "jalousien",
-        "name": "Jalousien",
-        "slug": "jalousien",
-        "productCategory": "Jalousien",
+        "key": "kochplatten",
+        "name": "Kochplatten",
+        "slug": "kochplatten",
+        "productCategory": "Kochplatten",
         "subCategories": []
     },
     {
-        "key": "gardinenschienen",
-        "name": "Gardinenschienen",
-        "slug": "gardinenschienen",
-        "productCategory": "Gardinenschienen",
+        "key": "retro-kühlschränke",
+        "name": "Retro-Kühlschränke",
+        "slug": "retro-kuhlschranke",
+        "productCategory": "Retro-Kühlschränke",
         "subCategories": []
     },
     {
-        "key": "fenstervorhänge",
-        "name": "Fenstervorhänge",
-        "slug": "fenstervorhange",
-        "productCategory": "Fenstervorhänge",
+        "key": "standkühlschränke",
+        "name": "Standkühlschränke",
+        "slug": "standkuhlschranke",
+        "productCategory": "Standkühlschränke",
         "subCategories": []
     },
     {
-        "key": "vitragestangen",
-        "name": "Vitragestangen",
-        "slug": "vitragestangen",
-        "productCategory": "Vitragestangen",
+        "key": "unterbau-kühlschränke",
+        "name": "Unterbau-Kühlschränke",
+        "slug": "unterbau-kuhlschranke",
+        "productCategory": "Unterbau-Kühlschränke",
         "subCategories": []
     },
     {
-        "key": "insektenschutzzubehör",
-        "name": "Insektenschutzzubehör",
-        "slug": "insektenschutzzubehor",
-        "productCategory": "Insektenschutzzubehör",
+        "key": "waschmaschinen",
+        "name": "Waschmaschinen",
+        "slug": "waschmaschinen",
+        "productCategory": "Waschmaschinen",
         "subCategories": []
     },
     {
-        "key": "türdichtungen & fensterdichtungen",
-        "name": "Türdichtungen & Fensterdichtungen",
-        "slug": "turdichtungen-fensterdichtungen",
-        "productCategory": "Türdichtungen & Fensterdichtungen",
+        "key": "frontlader-waschmaschinen",
+        "name": "Frontlader-Waschmaschinen",
+        "slug": "frontlader-waschmaschinen",
+        "productCategory": "Frontlader-Waschmaschinen",
         "subCategories": []
     },
     {
-        "key": "fliegengitterfenster",
-        "name": "Fliegengitterfenster",
-        "slug": "fliegengitterfenster",
-        "productCategory": "Fliegengitterfenster",
+        "key": "geschirrspüler",
+        "name": "Geschirrspüler",
+        "slug": "geschirrspuler",
+        "productCategory": "Geschirrspüler",
         "subCategories": []
     },
     {
-        "key": "insektenschutznetze",
-        "name": "Insektenschutznetze",
-        "slug": "insektenschutznetze",
-        "productCategory": "Insektenschutznetze",
+        "key": "standgeschirrspüler",
+        "name": "Standgeschirrspüler",
+        "slug": "standgeschirrspuler",
+        "productCategory": "Standgeschirrspüler",
+        "subCategories": []
+    },
+    {
+        "key": "mikrowellen",
+        "name": "Mikrowellen",
+        "slug": "mikrowellen",
+        "productCategory": "Mikrowellen",
+        "subCategories": []
+    },
+    {
+        "key": "toaster",
+        "name": "Toaster",
+        "slug": "toaster",
+        "productCategory": "Toaster",
+        "subCategories": []
+    },
+    {
+        "key": "küchenmaschinen",
+        "name": "Küchenmaschinen",
+        "slug": "kuchenmaschinen",
+        "productCategory": "Küchenmaschinen",
+        "subCategories": []
+    },
+    {
+        "key": "einbaugeschirrspüler",
+        "name": "Einbaugeschirrspüler",
+        "slug": "einbaugeschirrspuler",
+        "productCategory": "Einbaugeschirrspüler",
+        "subCategories": []
+    },
+    {
+        "key": "wasserkocher",
+        "name": "Wasserkocher",
+        "slug": "wasserkocher",
+        "productCategory": "Wasserkocher",
+        "subCategories": []
+    },
+    {
+        "key": "mini-kühlschränke",
+        "name": "Mini-Kühlschränke",
+        "slug": "mini-kuhlschranke",
+        "productCategory": "Mini-Kühlschränke",
+        "subCategories": []
+    },
+    {
+        "key": "gefrierschränke",
+        "name": "Gefrierschränke",
+        "slug": "gefrierschranke",
+        "productCategory": "Gefrierschränke",
+        "subCategories": []
+    },
+    {
+        "key": "tiefkühlschränke",
+        "name": "Tiefkühlschränke",
+        "slug": "tiefkuhlschranke",
+        "productCategory": "Tiefkühlschränke",
+        "subCategories": []
+    },
+    {
+        "key": "backöfen",
+        "name": "Backöfen",
+        "slug": "backofen",
+        "productCategory": "Backöfen",
+        "subCategories": []
+    },
+    {
+        "key": "einbaubacköfen",
+        "name": "Einbaubacköfen",
+        "slug": "einbaubackofen",
+        "productCategory": "Einbaubacköfen",
+        "subCategories": []
+    },
+    {
+        "key": "mixer & handrührgeräte",
+        "name": "Mixer & Handrührgeräte",
+        "slug": "mixer-handruhrgerate",
+        "productCategory": "Mixer & Handrührgeräte",
+        "subCategories": []
+    },
+    {
+        "key": "herde",
+        "name": "Herde",
+        "slug": "herde",
+        "productCategory": "Herde",
+        "subCategories": []
+    },
+    {
+        "key": "elektroherde",
+        "name": "Elektroherde",
+        "slug": "elektroherde",
+        "productCategory": "Elektroherde",
+        "subCategories": []
+    },
+    {
+        "key": "induktionskochfelder",
+        "name": "Induktionskochfelder",
+        "slug": "induktionskochfelder",
+        "productCategory": "Induktionskochfelder",
+        "subCategories": []
+    },
+    {
+        "key": "backofen-sets",
+        "name": "Backofen-Sets",
+        "slug": "backofen-sets",
+        "productCategory": "Backofen-Sets",
+        "subCategories": []
+    },
+    {
+        "key": "zubehör für waschmaschinen",
+        "name": "Zubehör für Waschmaschinen",
+        "slug": "zubehor-fur-waschmaschinen",
+        "productCategory": "Zubehör für Waschmaschinen",
+        "subCategories": []
+    },
+    {
+        "key": "wäschetrockner",
+        "name": "Wäschetrockner",
+        "slug": "waschetrockner",
+        "productCategory": "Wäschetrockner",
+        "subCategories": []
+    },
+    {
+        "key": "kondenstrockner",
+        "name": "Kondenstrockner",
+        "slug": "kondenstrockner",
+        "productCategory": "Kondenstrockner",
         "subCategories": []
     }
 ]

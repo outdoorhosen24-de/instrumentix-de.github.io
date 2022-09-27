@@ -1,17 +1,17 @@
 [
     {
-        "key": "tesa",
-        "name": "Tesa",
-        "slug": "tesa",
-        "productCategory": "Tesa",
-        "localThumb": "/assets/images/hersteller/tesa.webp"
+        "key": "respekta",
+        "name": "Respekta",
+        "slug": "respekta",
+        "productCategory": "Respekta",
+        "localThumb": "/assets/images/hersteller/respekta.webp"
     },
     {
-        "key": "cocoon",
-        "name": "Cocoon",
-        "slug": "cocoon",
-        "productCategory": "Cocoon",
-        "localThumb": "/assets/images/hersteller/cocoon.webp"
+        "key": "severin",
+        "name": "Severin",
+        "slug": "severin",
+        "productCategory": "Severin",
+        "localThumb": "/assets/images/hersteller/severin.webp"
     },
     {
         "key": "sonstige",
@@ -21,66 +21,38 @@
         "localThumb": "/assets/images/hersteller/sonstige.webp"
     },
     {
-        "key": "gardinia",
-        "name": "Gardinia",
-        "slug": "gardinia",
-        "productCategory": "Gardinia",
-        "localThumb": "/assets/images/hersteller/gardinia.webp"
+        "key": "pkm",
+        "name": "PKM",
+        "slug": "pkm",
+        "productCategory": "PKM",
+        "localThumb": "/assets/images/hersteller/pkm.webp"
     },
     {
-        "key": "obi",
-        "name": "OBI",
-        "slug": "obi",
-        "productCategory": "OBI",
-        "localThumb": "/assets/images/hersteller/obi.webp"
+        "key": "wolkenstein",
+        "name": "Wolkenstein",
+        "slug": "wolkenstein",
+        "productCategory": "Wolkenstein",
+        "localThumb": "/assets/images/hersteller/wolkenstein.webp"
     },
     {
-        "key": "moondream",
-        "name": "Moondream",
-        "slug": "moondream",
-        "productCategory": "Moondream",
-        "localThumb": "/assets/images/hersteller/moondream.webp"
+        "key": "flex-well exclusiv",
+        "name": "Flex-Well Exclusiv",
+        "slug": "flex-well-exclusiv",
+        "productCategory": "Flex-Well Exclusiv",
+        "localThumb": "/assets/images/hersteller/flex-well-exclusiv.webp"
     },
     {
-        "key": "mydeco",
-        "name": "mydeco",
-        "slug": "mydeco",
-        "productCategory": "mydeco",
-        "localThumb": "/assets/images/hersteller/mydeco.webp"
+        "key": "flex-well classic",
+        "name": "Flex-Well Classic",
+        "slug": "flex-well-classic",
+        "productCategory": "Flex-Well Classic",
+        "localThumb": "/assets/images/hersteller/flex-well-classic.webp"
     },
     {
-        "key": "thermacell",
-        "name": "Thermacell",
-        "slug": "thermacell",
-        "productCategory": "Thermacell",
-        "localThumb": "/assets/images/hersteller/thermacell.webp"
-    },
-    {
-        "key": "cmi",
-        "name": "CMI",
-        "slug": "cmi",
-        "productCategory": "CMI",
-        "localThumb": "/assets/images/hersteller/cmi.webp"
-    },
-    {
-        "key": "guttagliss",
-        "name": "guttagliss",
-        "slug": "guttagliss",
-        "productCategory": "guttagliss",
-        "localThumb": "/assets/images/hersteller/guttagliss.webp"
-    },
-    {
-        "key": "windhager",
-        "name": "Windhager",
-        "slug": "windhager",
-        "productCategory": "Windhager",
-        "localThumb": "/assets/images/hersteller/windhager.webp"
-    },
-    {
-        "key": "velux",
-        "name": "Velux",
-        "slug": "velux",
-        "productCategory": "Velux",
-        "localThumb": "/assets/images/hersteller/velux.webp"
+        "key": "sharp",
+        "name": "Sharp",
+        "slug": "sharp",
+        "productCategory": "Sharp",
+        "localThumb": "/assets/images/hersteller/sharp.webp"
     }
 ]
