@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/kategorie/wasserkocher", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/severin-wasserkocher-wk3469-schwarz-edelstahl-gebuerstet-1-l-severin-3381589-1.jpg":"\u002Fassets\u002Fimages\u002Fseverin-wasserkocher-wk3469-schwarz-edelstahl-gebuerstet-1-l-severin-3381589-1.webp"}}],fetch:{},mutations:void 0});

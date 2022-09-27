@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/sharp", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/sharp-schott-ceran-r-induktionskochfeld-autark-59-cm-breit-kh-6ix38fs00-eu-sharp-1244037-1.jpg":"\u002Fassets\u002Fimages\u002Fsharp-schott-ceran-r-induktionskochfeld-autark-59-cm-breit-kh-6ix38fs00-eu-sharp-1244037-1.webp"}}],fetch:{},mutations:void 0});
