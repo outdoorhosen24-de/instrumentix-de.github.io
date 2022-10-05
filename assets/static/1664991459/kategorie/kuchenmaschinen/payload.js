@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kategorie/kuchenmaschinen", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/severin-vakuumierbeutel-20-x-30-cm-55-stk-severin-7655467-1.jpg":"\u002Fassets\u002Fimages\u002Fseverin-vakuumierbeutel-20-x-30-cm-55-stk-severin-7655467-1.webp"}}],fetch:{},mutations:void 0});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kategorie/zubehor-fur-waschmaschinen", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/waschmaschinenunterlage-60-cm-x-60-cm-sonstige-8001174-1.jpg":"\u002Fassets\u002Fimages\u002Fwaschmaschinenunterlage-60-cm-x-60-cm-sonstige-8001174-1.webp"}}],fetch:{},mutations:void 0});
