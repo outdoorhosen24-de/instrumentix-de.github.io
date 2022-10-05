@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
-    "domain": "wassersport24.net",
-    "hostname": "https://wassersport24.net/",
-    "email": "wassersport24.net@surrealnetworks.io",
-    "organization": "wassersport24.net",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
+    "configIsReady": true,
+    "domain": "instrumentix.de",
+    "hostname": "https://www.instrumentix.de/",
+    "email": "instrumentix.desurrealnetworks.io",
+    "organization": "instrumentix.de",
+    "logoText": "Instrumentix.de",
+    "title": "Elektroger\u00e4te",
+    "subline": "Der Online Shop f\u00fcr Elektroger\u00e4te",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -14,9 +14,27 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
+    "popularProducts": [
+        "5255476",
+        "8631061",
+        "1834647",
+        "8474512",
+        "5713078",
+        "2137297"
+    ],
+    "winnerProducts": [
+        "5712864",
+        "9339458",
+        "5712864"
+    ],
+    "featuredCategories": [
+        "Frontlader-Waschmaschinen",
+        "Haushaltsger\u00e4te",
+        "Geschirrsp\u00fcler",
+        "Mikrowellen",
+        "Kondenstrockner",
+        "Kochfelder"
+    ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
     "checklist": [
@@ -28,37 +46,33 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Elektroger\u00e4te",
-        "featureText": "Your featured text goes here",
+        "featureText": "Die Elektroger\u00e4te-Shop ist ein gro\u00dfer Online-Shop f\u00fcr Elektroger\u00e4te. Sie haben eine gro\u00dfe Auswahl an Elektroger\u00e4ten und Zubeh\u00f6r. Sie bieten auch eine gro\u00dfe Auswahl an Marken.",
         "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex",
+            "title": "Elektroger\u00e4te Shop",
+            "metaDescription": "Der Shop f\u00fcr Elektroger\u00e4te bietet eine gro\u00dfe Auswahl an Ger\u00e4ten f\u00fcr den Haushalt. Hier findest du alles, was du f\u00fcr deine Elektroger\u00e4te ben\u00f6tigst.",
+            "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
+                    "title": "Elektroger\u00e4te: Die besten Ger\u00e4te f\u00fcr Ihr Zuhause",
+                    "text": "Die meisten Menschen in Deutschland haben ein oder mehrere Elektroger\u00e4te in ihrem Haushalt. Die meisten Haushalte haben einen Fernseher, einen DVD-Player, einen Computer, ein Radio und ein Telefon. Viele Haushalte haben auch einen K\u00fchlschrank, einen Herd, eine Waschmaschine und einen Trockner.\n\nIn den letzten Jahren sind immer mehr Menschen dazu \u00fcbergegangen, ihre Elektroger\u00e4te online zu kaufen. Dies ist vor allem auf die gro\u00dfe Auswahl an Elektroger\u00e4ten und die g\u00fcnstigen Preise zur\u00fcckzuf\u00fchren. Viele Menschen kaufen ihre Elektroger\u00e4te jedoch immer noch in den Gesch\u00e4ften vor Ort.\n\nDie meisten Menschen entscheiden sich f\u00fcr ein bestimmtes Elektroger\u00e4t, weil sie es bereits kennen und wissen, wie es funktioniert. Andere Menschen entscheiden sich f\u00fcr ein bestimmtes Ger\u00e4t, weil es ihnen von Freunden oder Bekannten empfohlen wurde.\n\nWenn Sie ein Elektroger\u00e4t kaufen m\u00f6chten, sollten Sie sich zun\u00e4chst informieren, welches Ger\u00e4t am besten zu Ihren Bed\u00fcrfnissen passt. Sie sollten auch den Preis des Ger\u00e4ts vergleichen, bevor Sie eine Entscheidung treffen."
                 }
             ]
         },
         "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Elektroger\u00e4te-Shop",
+            "metaDescription": "Der Shop f\u00fcr Elektroger\u00e4te bietet eine gro\u00dfe Auswahl an Ger\u00e4ten f\u00fcr jeden Bedarf. Vom einfachen Toaster bis zum professionellen K\u00fcchenherd finden Sie alles, was Sie brauchen.",
+            "robots": "index, follow"
         },
         "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Elektroger\u00e4te-Hersteller",
+            "metaDescription": "Der offizielle Hersteller-Subpage f\u00fcr Elektroger\u00e4te. Hier finden Sie alle Informationen \u00fcber unsere Produkte und Dienstleistungen.",
+            "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "$PRODUKT: Die besten Elektroger\u00e4te f\u00fcr Ihr Zuhause",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER - die beste Wahl f\u00fcr Ihre $KATEGORIE. Schnelle Lieferung und top Service!",
+        "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
@@ -72,9 +86,9 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "$KATEGORIE: Die besten Elektroger\u00e4te f\u00fcr Ihr Zuhause",
+        "defaultMetaDescription": "$KATEGORIE: Hier findest du alle unsere Elektroger\u00e4te. Vom Staubsauger bis zum K\u00fchlschrank. Jetzt st\u00f6bern und bestellen!",
+        "defaultRobots": "index, follow",
         "categories": [
             {
                 "key": "sporthosen",
@@ -100,8 +114,8 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultMetaDescription": "$HERSTELLER ist ein f\u00fchrender Hersteller von Elektroger\u00e4ten. Wir bieten eine gro\u00dfe Auswahl an hochwertigen und zuverl\u00e4ssigen Ger\u00e4ten.",
+        "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
@@ -118,26 +132,30 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Wassersport",
+            "linkTitle": "Elektroger\u00e4te",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
+            "linkTitle": "Elektroger\u00e4te Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
+            "linkTitle": "Elektroger\u00e4te Marken",
             "publish": true
         },
         {
             "title": "Kontakt",
             "linkTo": "/kontakt/",
-            "linkTitle": "Wassersport Kontakt",
+            "linkTitle": "Kontakt",
             "publish": false
         }
-    ]
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
+    }
 }
