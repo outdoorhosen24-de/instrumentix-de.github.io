@@ -1,12 +1,12 @@
 {
-    "configIsReady": true,
+    "configIsReady": false,
     "domain": "instrumentix.de",
     "hostname": "https://www.instrumentix.de/",
     "email": "instrumentix.desurrealnetworks.io",
     "organization": "instrumentix.de",
     "logoText": "Instrumentix.de",
-    "title": "Elektroger\u00e4te",
-    "subline": "Der Online Shop f\u00fcr Elektroger\u00e4te",
+    "title": "Elektrogeräte",
+    "subline": "Der Online Shop für Elektrogeräte",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -29,8 +29,8 @@
     ],
     "featuredCategories": [
         "Frontlader-Waschmaschinen",
-        "Haushaltsger\u00e4te",
-        "Geschirrsp\u00fcler",
+        "Haushaltsgeräte",
+        "Geschirrspüler",
         "Mikrowellen",
         "Kondenstrockner",
         "Kochfelder"
@@ -45,49 +45,49 @@
     ],
     "seo": {
         "htmlLang": "de",
-        "mainKeyword": "Elektroger\u00e4te",
-        "featureText": "Die Elektroger\u00e4te-Shop ist ein gro\u00dfer Online-Shop f\u00fcr Elektroger\u00e4te. Sie haben eine gro\u00dfe Auswahl an Elektroger\u00e4ten und Zubeh\u00f6r. Sie bieten auch eine gro\u00dfe Auswahl an Marken.",
+        "mainKeyword": "Elektrogeräte",
+        "featureText": "Die Elektrogeräte-Shop ist ein großer Online-Shop für Elektrogeräte. Sie haben eine große Auswahl an Elektrogeräten und Zubehör. Sie bieten auch eine große Auswahl an Marken.",
         "index": {
-            "title": "Elektroger\u00e4te Shop",
-            "metaDescription": "Der Shop f\u00fcr Elektroger\u00e4te bietet eine gro\u00dfe Auswahl an Ger\u00e4ten f\u00fcr den Haushalt. Hier findest du alles, was du f\u00fcr deine Elektroger\u00e4te ben\u00f6tigst.",
+            "title": "Elektrogeräte Shop",
+            "metaDescription": "Der Shop für Elektrogeräte bietet eine große Auswahl an Geräten für den Haushalt. Hier findest du alles, was du für deine Elektrogeräte benötigst.",
             "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Elektroger\u00e4te: Die besten Ger\u00e4te f\u00fcr Ihr Zuhause",
-                    "text": "Die meisten Menschen in Deutschland haben ein oder mehrere Elektroger\u00e4te in ihrem Haushalt. Die meisten Haushalte haben einen Fernseher, einen DVD-Player, einen Computer, ein Radio und ein Telefon. Viele Haushalte haben auch einen K\u00fchlschrank, einen Herd, eine Waschmaschine und einen Trockner.\n\nIn den letzten Jahren sind immer mehr Menschen dazu \u00fcbergegangen, ihre Elektroger\u00e4te online zu kaufen. Dies ist vor allem auf die gro\u00dfe Auswahl an Elektroger\u00e4ten und die g\u00fcnstigen Preise zur\u00fcckzuf\u00fchren. Viele Menschen kaufen ihre Elektroger\u00e4te jedoch immer noch in den Gesch\u00e4ften vor Ort.\n\nDie meisten Menschen entscheiden sich f\u00fcr ein bestimmtes Elektroger\u00e4t, weil sie es bereits kennen und wissen, wie es funktioniert. Andere Menschen entscheiden sich f\u00fcr ein bestimmtes Ger\u00e4t, weil es ihnen von Freunden oder Bekannten empfohlen wurde.\n\nWenn Sie ein Elektroger\u00e4t kaufen m\u00f6chten, sollten Sie sich zun\u00e4chst informieren, welches Ger\u00e4t am besten zu Ihren Bed\u00fcrfnissen passt. Sie sollten auch den Preis des Ger\u00e4ts vergleichen, bevor Sie eine Entscheidung treffen."
+                    "title": "Elektrogeräte: Die besten Geräte für Ihr Zuhause",
+                    "text": "Die meisten Menschen in Deutschland haben ein oder mehrere Elektrogeräte in ihrem Haushalt. Die meisten Haushalte haben einen Fernseher, einen DVD-Player, einen Computer, ein Radio und ein Telefon. Viele Haushalte haben auch einen Kühlschrank, einen Herd, eine Waschmaschine und einen Trockner.\n\nIn den letzten Jahren sind immer mehr Menschen dazu übergegangen, ihre Elektrogeräte online zu kaufen. Dies ist vor allem auf die große Auswahl an Elektrogeräten und die günstigen Preise zurückzuführen. Viele Menschen kaufen ihre Elektrogeräte jedoch immer noch in den Geschäften vor Ort.\n\nDie meisten Menschen entscheiden sich für ein bestimmtes Elektrogerät, weil sie es bereits kennen und wissen, wie es funktioniert. Andere Menschen entscheiden sich für ein bestimmtes Gerät, weil es ihnen von Freunden oder Bekannten empfohlen wurde.\n\nWenn Sie ein Elektrogerät kaufen möchten, sollten Sie sich zunächst informieren, welches Gerät am besten zu Ihren Bedürfnissen passt. Sie sollten auch den Preis des Geräts vergleichen, bevor Sie eine Entscheidung treffen."
                 }
             ]
         },
         "shop": {
-            "title": "Elektroger\u00e4te-Shop",
-            "metaDescription": "Der Shop f\u00fcr Elektroger\u00e4te bietet eine gro\u00dfe Auswahl an Ger\u00e4ten f\u00fcr jeden Bedarf. Vom einfachen Toaster bis zum professionellen K\u00fcchenherd finden Sie alles, was Sie brauchen.",
+            "title": "Elektrogeräte-Shop",
+            "metaDescription": "Der Shop für Elektrogeräte bietet eine große Auswahl an Geräten für jeden Bedarf. Vom einfachen Toaster bis zum professionellen Küchenherd finden Sie alles, was Sie brauchen.",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Elektroger\u00e4te-Hersteller",
-            "metaDescription": "Der offizielle Hersteller-Subpage f\u00fcr Elektroger\u00e4te. Hier finden Sie alle Informationen \u00fcber unsere Produkte und Dienstleistungen.",
+            "title": "Elektrogeräte-Hersteller",
+            "metaDescription": "Der offizielle Hersteller-Subpage für Elektrogeräte. Hier finden Sie alle Informationen über unsere Produkte und Dienstleistungen.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "$PRODUKT: Die besten Elektroger\u00e4te f\u00fcr Ihr Zuhause",
-        "defaultMetaDescription": "$PRODUKT von $HERSTELLER - die beste Wahl f\u00fcr Ihre $KATEGORIE. Schnelle Lieferung und top Service!",
+        "defaultTitle": "$PRODUKT: Die besten Elektrogeräte für Ihr Zuhause",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER - die beste Wahl für Ihre $KATEGORIE. Schnelle Lieferung und top Service!",
         "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
                 "name": "Ortovox PALA PANTS Kletterhose",
                 "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
                     "robots": "index, follow"
                 }
             }
         ]
     },
     "categorySeo": {
-        "defaultTitle": "$KATEGORIE: Die besten Elektroger\u00e4te f\u00fcr Ihr Zuhause",
-        "defaultMetaDescription": "$KATEGORIE: Hier findest du alle unsere Elektroger\u00e4te. Vom Staubsauger bis zum K\u00fchlschrank. Jetzt st\u00f6bern und bestellen!",
+        "defaultTitle": "$KATEGORIE: Die besten Elektrogeräte für Ihr Zuhause",
+        "defaultMetaDescription": "$KATEGORIE: Hier findest du alle unsere Elektrogeräte. Vom Staubsauger bis zum Kühlschrank. Jetzt stöbern und bestellen!",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -95,8 +95,8 @@
                 "slug": "sporthosen",
                 "name": "Sporthosen",
                 "seo": {
-                    "title": "Sporthosen g\u00fcnstig kaufen",
-                    "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
                     "robots": "index, follow",
                     "texts": [
                         {
@@ -114,15 +114,15 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "$HERSTELLER ist ein f\u00fchrender Hersteller von Elektroger\u00e4ten. Wir bieten eine gro\u00dfe Auswahl an hochwertigen und zuverl\u00e4ssigen Ger\u00e4ten.",
+        "defaultMetaDescription": "$HERSTELLER ist ein führender Hersteller von Elektrogeräten. Wir bieten eine große Auswahl an hochwertigen und zuverlässigen Geräten.",
         "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
                 "name": "Palm",
                 "seo": {
-                    "title": "Produkte von Palm g\u00fcnstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
                     "robots": "index, follow"
                 }
             }
@@ -132,19 +132,19 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Elektroger\u00e4te",
+            "linkTitle": "Elektrogeräte",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Elektroger\u00e4te Shop",
+            "linkTitle": "Elektrogeräte Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Elektroger\u00e4te Marken",
+            "linkTitle": "Elektrogeräte Marken",
             "publish": true
         },
         {
