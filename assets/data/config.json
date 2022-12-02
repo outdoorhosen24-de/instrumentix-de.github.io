@@ -51,12 +51,15 @@
             "title": "Elektrogeräte Shop",
             "metaDescription": "Der Shop für Elektrogeräte bietet eine große Auswahl an Geräten für den Haushalt. Hier findest du alles, was du für deine Elektrogeräte benötigst.",
             "robots": "index, follow",
-            "texts": [
-                {
-                    "title": "Elektrogeräte: Die besten Geräte für Ihr Zuhause",
-                    "text": "Die meisten Menschen in Deutschland haben ein oder mehrere Elektrogeräte in ihrem Haushalt. Die meisten Haushalte haben einen Fernseher, einen DVD-Player, einen Computer, ein Radio und ein Telefon. Viele Haushalte haben auch einen Kühlschrank, einen Herd, eine Waschmaschine und einen Trockner.\n\nIn den letzten Jahren sind immer mehr Menschen dazu übergegangen, ihre Elektrogeräte online zu kaufen. Dies ist vor allem auf die große Auswahl an Elektrogeräten und die günstigen Preise zurückzuführen. Viele Menschen kaufen ihre Elektrogeräte jedoch immer noch in den Geschäften vor Ort.\n\nDie meisten Menschen entscheiden sich für ein bestimmtes Elektrogerät, weil sie es bereits kennen und wissen, wie es funktioniert. Andere Menschen entscheiden sich für ein bestimmtes Gerät, weil es ihnen von Freunden oder Bekannten empfohlen wurde.\n\nWenn Sie ein Elektrogerät kaufen möchten, sollten Sie sich zunächst informieren, welches Gerät am besten zu Ihren Bedürfnissen passt. Sie sollten auch den Preis des Geräts vergleichen, bevor Sie eine Entscheidung treffen."
-                }
-            ]
+            "seotext": {
+                "published": false,
+                "content": [
+                    {
+                        "title": "Elektrogeräte: Die besten Geräte für Ihr Zuhause",
+                        "text": "Die meisten Menschen in Deutschland haben ein oder mehrere Elektrogeräte in ihrem Haushalt. Die meisten Haushalte haben einen Fernseher, einen DVD-Player, einen Computer, ein Radio und ein Telefon. Viele Haushalte haben auch einen Kühlschrank, einen Herd, eine Waschmaschine und einen Trockner.\n\nIn den letzten Jahren sind immer mehr Menschen dazu übergegangen, ihre Elektrogeräte online zu kaufen. Dies ist vor allem auf die große Auswahl an Elektrogeräten und die günstigen Preise zurückzuführen. Viele Menschen kaufen ihre Elektrogeräte jedoch immer noch in den Geschäften vor Ort.\n\nDie meisten Menschen entscheiden sich für ein bestimmtes Elektrogerät, weil sie es bereits kennen und wissen, wie es funktioniert. Andere Menschen entscheiden sich für ein bestimmtes Gerät, weil es ihnen von Freunden oder Bekannten empfohlen wurde.\n\nWenn Sie ein Elektrogerät kaufen möchten, sollten Sie sich zunächst informieren, welches Gerät am besten zu Ihren Bedürfnissen passt. Sie sollten auch den Preis des Geräts vergleichen, bevor Sie eine Entscheidung treffen."
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Elektrogeräte-Shop",
