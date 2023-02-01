@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "instrumentix.de",
     "hostname": "https://www.instrumentix.de/",
     "email": "instrumentix.de@surrealnetworks.io",
     "organization": "instrumentix.de",
     "logoText": "Instrumentix.de",
     "title": "Elektrogeräte",
-    "subline": "Der Online Shop für Elektrogeräte",
+    "subline": "Der Online Shop: Elektrogeräte für jeden Fall",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -46,10 +46,10 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Elektrogeräte",
-        "featureText": "Die Elektrogeräte-Shop ist ein großer Online-Shop für Elektrogeräte. Sie haben eine große Auswahl an Elektrogeräten und Zubehör. Sie bieten auch eine große Auswahl an Marken.",
+        "featureText": "Willkommen in unserem Shop für Elektrogeräte! Bei uns finden Sie Elektrogeräte in sämtlichen Ausführungen. Zum einem größeren Elektrogeräte wie Kühlschränke, Waschmaschinen, Wäschetrockner, Geschirrspüler, Backöfen und mehr. Zum anderen bieten wir Ihnen auch Küchenkleingeräte wie Toaster, Mikrowellen, Wasserkocher, Mixer, Mini-Kühlschränke uvm. Unser Angebot ist ausgesprochen umfangreich, sodass wirklich jeder das passende Produkt findet! Schauen Sie gerne in die einzelnen Kategorien oder suchen Sie Ihr Wunsch-Gerät über unsere Hersteller-Liste. Viel Spaß!",
         "index": {
-            "title": "Elektrogeräte Shop",
-            "metaDescription": "Der Shop für Elektrogeräte bietet eine große Auswahl an Geräten für den Haushalt. Hier findest du alles, was du für deine Elektrogeräte benötigst.",
+            "title": "Elektrogeräte | günstig online kaufen",
+            "metaDescription": "Haushaltsgeräte wie: Kühlschrank • Geschirrspüler • Kochfeld • Herd • Waschmaschine  • Trockner uvm. | Küchenkleingeräte wie Mixer • Toaster • Mikrowelle & mehr",
             "robots": "index, follow",
             "seotext": {
                 "published": false,
@@ -62,19 +62,19 @@
             }
         },
         "shop": {
-            "title": "Elektrogeräte-Shop",
-            "metaDescription": "Der Shop für Elektrogeräte bietet eine große Auswahl an Geräten für jeden Bedarf. Vom einfachen Toaster bis zum professionellen Küchenherd finden Sie alles, was Sie brauchen.",
+            "title": "Elektrogeräte | Der Online Shop",
+            "metaDescription": "Bei uns im Shop! | Kaufen Sie Elektro-Haushaltsgeräte wie Kühlschrank, Waschmaschine & Co. sowie Kleingeräte wie Toaster, Mixer & Co. einfach online!",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Elektrogeräte-Hersteller",
-            "metaDescription": "Der offizielle Hersteller-Subpage für Elektrogeräte. Hier finden Sie alle Informationen über unsere Produkte und Dienstleistungen.",
+            "title": "Elektrogeräte | Top Marken",
+            "metaDescription": "Hier finden Sie eine Auflistung all unserer Hersteller für Elektrogeräte | Unser Shop führt ausschließlich Top Marken wie Respekta, Wolkenstein, PKM & mehr! ",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "$PRODUKT: Die besten Elektrogeräte für Ihr Zuhause",
-        "defaultMetaDescription": "$PRODUKT von $HERSTELLER - die beste Wahl für Ihre $KATEGORIE. Schnelle Lieferung und top Service!",
+        "defaultTitle": "$PRODUKT | günstiger kaufen",
+        "defaultMetaDescription": "Produkte wie $PRODUKT | Von namhaften Herstellern wie $HERSTELLER | Und viele weitere langlebige Produkte in der Kategorie $KATEGORIE. | Bei uns erhältlich!",
         "defaultRobots": "index, follow",
         "products": [
             {
@@ -89,8 +89,8 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "$KATEGORIE: Die besten Elektrogeräte für Ihr Zuhause",
-        "defaultMetaDescription": "$KATEGORIE: Hier findest du alle unsere Elektrogeräte. Vom Staubsauger bis zum Kühlschrank. Jetzt stöbern und bestellen!",
+        "defaultTitle": "$KATEGORIE [Die besten Elektrogeräte für Ihr Zuhause]",
+        "defaultMetaDescription": "$KATEGORIE | Hier finden Sie ein riesiges Angebot an Elektrogeräten zum Thema $KATEGORIE in Top Qualität! | Jetzt bequem online kaufen! | Schnelle Lieferung!",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -116,8 +116,8 @@
         ]
     },
     "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "$HERSTELLER ist ein führender Hersteller von Elektrogeräten. Wir bieten eine große Auswahl an hochwertigen und zuverlässigen Geräten.",
+        "defaultTitle": "$HERSTELLER - Der Hersteller für Elektrogeräte",
+        "defaultMetaDescription": "$HERSTELLER ist ein renommierter Hersteller von Elektrogeräten für sämtliche Anwendungsbereiche. | Finden Sie bei uns hochwertige Produkte von $HERSTELLER.",
         "defaultRobots": "index, follow",
         "brands": [
             {
