@@ -2,28 +2,28 @@
     {
         "key": "kühlschränke",
         "name": "Kühlschränke",
-        "slug": "kuhlschranke",
+        "slug": "kuehlschraenke",
         "productCategory": "Kühlschränke",
         "subCategories": []
     },
     {
         "key": "kühl-gefrierkombinationen",
         "name": "Kühl-Gefrierkombinationen",
-        "slug": "kuhl-gefrierkombinationen",
+        "slug": "kuehl-gefrierkombinationen",
         "productCategory": "Kühl-Gefrierkombinationen",
         "subCategories": []
     },
     {
         "key": "haushaltsgeräte",
         "name": "Haushaltsgeräte",
-        "slug": "haushaltsgerate",
+        "slug": "haushaltsgeraete",
         "productCategory": "Haushaltsgeräte",
         "subCategories": []
     },
     {
         "key": "weitere küchenkleingeräte",
         "name": "Weitere Küchenkleingeräte",
-        "slug": "weitere-kuchenkleingerate",
+        "slug": "weitere-kuechenkleingeraete",
         "productCategory": "Weitere Küchenkleingeräte",
         "subCategories": []
     },
@@ -44,7 +44,7 @@
     {
         "key": "einbaukühlschränke",
         "name": "Einbaukühlschränke",
-        "slug": "einbaukuhlschranke",
+        "slug": "einbaukuehlschraenke",
         "productCategory": "Einbaukühlschränke",
         "subCategories": []
     },
@@ -58,21 +58,21 @@
     {
         "key": "retro-kühlschränke",
         "name": "Retro-Kühlschränke",
-        "slug": "retro-kuhlschranke",
+        "slug": "retro-kuehlschraenke",
         "productCategory": "Retro-Kühlschränke",
         "subCategories": []
     },
     {
         "key": "standkühlschränke",
         "name": "Standkühlschränke",
-        "slug": "standkuhlschranke",
+        "slug": "standkuehlschraenke",
         "productCategory": "Standkühlschränke",
         "subCategories": []
     },
     {
         "key": "unterbau-kühlschränke",
         "name": "Unterbau-Kühlschränke",
-        "slug": "unterbau-kuhlschranke",
+        "slug": "unterbau-kuehlschraenke",
         "productCategory": "Unterbau-Kühlschränke",
         "subCategories": []
     },
@@ -93,14 +93,14 @@
     {
         "key": "geschirrspüler",
         "name": "Geschirrspüler",
-        "slug": "geschirrspuler",
+        "slug": "geschirrspueler",
         "productCategory": "Geschirrspüler",
         "subCategories": []
     },
     {
         "key": "standgeschirrspüler",
         "name": "Standgeschirrspüler",
-        "slug": "standgeschirrspuler",
+        "slug": "standgeschirrspueler",
         "productCategory": "Standgeschirrspüler",
         "subCategories": []
     },
@@ -121,14 +121,14 @@
     {
         "key": "küchenmaschinen",
         "name": "Küchenmaschinen",
-        "slug": "kuchenmaschinen",
+        "slug": "kuechenmaschinen",
         "productCategory": "Küchenmaschinen",
         "subCategories": []
     },
     {
         "key": "einbaugeschirrspüler",
         "name": "Einbaugeschirrspüler",
-        "slug": "einbaugeschirrspuler",
+        "slug": "einbaugeschirrspueler",
         "productCategory": "Einbaugeschirrspüler",
         "subCategories": []
     },
@@ -142,42 +142,42 @@
     {
         "key": "mini-kühlschränke",
         "name": "Mini-Kühlschränke",
-        "slug": "mini-kuhlschranke",
+        "slug": "mini-kuehlschraenke",
         "productCategory": "Mini-Kühlschränke",
         "subCategories": []
     },
     {
         "key": "gefrierschränke",
         "name": "Gefrierschränke",
-        "slug": "gefrierschranke",
+        "slug": "gefrierschraenke",
         "productCategory": "Gefrierschränke",
         "subCategories": []
     },
     {
         "key": "tiefkühlschränke",
         "name": "Tiefkühlschränke",
-        "slug": "tiefkuhlschranke",
+        "slug": "tiefkuehlschraenke",
         "productCategory": "Tiefkühlschränke",
         "subCategories": []
     },
     {
         "key": "backöfen",
         "name": "Backöfen",
-        "slug": "backofen",
+        "slug": "backoefen",
         "productCategory": "Backöfen",
         "subCategories": []
     },
     {
         "key": "einbaubacköfen",
         "name": "Einbaubacköfen",
-        "slug": "einbaubackofen",
+        "slug": "einbaubackoefen",
         "productCategory": "Einbaubacköfen",
         "subCategories": []
     },
     {
         "key": "mixer & handrührgeräte",
         "name": "Mixer & Handrührgeräte",
-        "slug": "mixer-handruhrgerate",
+        "slug": "mixer-handruehrgeraete",
         "productCategory": "Mixer & Handrührgeräte",
         "subCategories": []
     },
@@ -212,14 +212,14 @@
     {
         "key": "zubehör für waschmaschinen",
         "name": "Zubehör für Waschmaschinen",
-        "slug": "zubehor-fur-waschmaschinen",
+        "slug": "zubehoer-fuer-waschmaschinen",
         "productCategory": "Zubehör für Waschmaschinen",
         "subCategories": []
     },
     {
         "key": "wäschetrockner",
         "name": "Wäschetrockner",
-        "slug": "waschetrockner",
+        "slug": "waeschetrockner",
         "productCategory": "Wäschetrockner",
         "subCategories": []
     },
