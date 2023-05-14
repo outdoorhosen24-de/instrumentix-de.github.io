@@ -1,321 +1,328 @@
 {
-  "configIsReady": true,
-  "domain": "instrumentix.de",
-  "hostname": "https://www.instrumentix.de/",
-  "email": "instrumentix.de@surrealnetworks.io",
-  "organization": "instrumentix.de",
-  "logoText": "Instrumentix.de",
-  "title": "Elektrogeräte",
-  "subline": "Der Online Shop: Elektrogeräte für jeden Fall",
-  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-  "imageFolder": "/assets/images/images/",
-  "productUrl": "/produkt/",
-  "kategorieUrl": "/kategorie/",
-  "numberOfProductsOnStartpage": 18,
-  "numberMaximumProductsPerCategory": 100,
-  "numberOfRelevantProduct": 12,
-  "popularProducts": [
-    "5255476",
-    "8631061",
-    "1834647",
-    "8474512",
-    "5713078",
-    "2137297"
-  ],
-  "winnerProducts": [
-    "5712864",
-    "9339458",
-    "5712864"
-  ],
-  "featuredCategories": [
-    "Frontlader-Waschmaschinen",
-    "Haushaltsgeräte",
-    "Geschirrspüler",
-    "Mikrowellen",
-    "Kondenstrockner",
-    "Kochfelder"
-  ],
-  "socialMediaAccounts": [],
-  "imageQuality": 90,
-  "checklist": [
-    "Material",
-    "Komfort",
-    "Funktion",
-    "Haltbarkeit"
-  ],
-  "seo": {
-    "htmlLang": "de",
-    "mainKeyword": "Elektrogeräte",
-    "featureText": "Willkommen in unserem Shop für Elektrogeräte! Bei uns finden Sie Elektrogeräte in sämtlichen Ausführungen. Zum einem größeren Elektrogeräte wie Kühlschränke, Waschmaschinen, Wäschetrockner, Geschirrspüler, Backöfen und mehr. Zum anderen bieten wir Ihnen auch Küchenkleingeräte wie Toaster, Mikrowellen, Wasserkocher, Mixer, Mini-Kühlschränke uvm. Unser Angebot ist ausgesprochen umfangreich, sodass wirklich jeder das passende Produkt findet! Schauen Sie gerne in die einzelnen Kategorien oder suchen Sie Ihr Wunsch-Gerät über unsere Hersteller-Liste. Viel Spaß!",
-    "index": {
-      "title": "Elektrogeräte | günstig online kaufen",
-      "metaDescription": "Haushaltsgeräte wie: Kühlschrank • Geschirrspüler • Kochfeld • Herd • Waschmaschine  • Trockner uvm. | Küchenkleingeräte wie Mixer • Toaster • Mikrowelle & mehr",
-      "robots": "index, follow",
-      "seotext": {
-        "published": true,
-        "content": [
-          {
-            "title": "Willkommen bei Instrumentix",
-            "text": "Instrumentix ist Ihr Online-Shop für Elektrogeräte jeglicher Art. Wir bieten Ihnen eine breite Auswahl an Kühlschränken, Haushaltsgeräten, Kochfeldern, Waschmaschinen, Geschirrspülern, Mikrowellen, Toastern, Küchenmaschinen, Wasserkochern, Gefrierschränken, Backöfen, Mixern & Handrührgeräten, Herden, Elektroherden, Induktionskochfeldern und vielem mehr. Unsere Kategorien sind übersichtlich gestaltet, damit Sie schnell und einfach das gewünschte Produkt finden. Wir legen großen Wert auf Qualität und bieten Ihnen daher nur hochwertige Elektrogeräte zu fairen Preisen. Entdecken Sie jetzt unser Sortiment und finden Sie das perfekte Gerät für Ihre Bedürfnisse. Bei Fragen stehen wir Ihnen jederzeit zur Verfügung. Willkommen bei Instrumentix!"
-          },
-          {
-            "title": "Kühlschränke",
-            "text": "In unserem Online-Shop Instrumentix bieten wir eine breite Auswahl an <a href=\"/kategorie/kuehlschraenke/\" title=\"Kühlschränke\">Kühlschränke</a>n an. Von kleinen Kühlschränken für die Küche bis hin zu großen Modellen für den Keller, wir haben alles im Angebot. Unsere Kühlschränke sind von hoher Qualität und bekannten Markenherstellern. Stöbern Sie in unserer Kategorie Kühlschränke und finden Sie das perfekte Gerät für Ihre Bedürfnisse."
-          },
-          {
-            "title": "Kühl-Gefrierkombinationen",
-            "text": "In unserem Online-Shop Instrumentix bieten wir auch eine große Auswahl an <a href=\"/kategorie/kuehl-gefrierkombinationen/\" title=\"Kühl-Gefrierkombinationen\">Kühl-Gefrierkombinationen</a> an. Diese Geräte sind perfekt für diejenigen, die sowohl Kühl- als auch Gefrierfächer benötigen. Wir haben Kühl-Gefrierkombinationen in verschiedenen Größen und von renommierten Markenherstellern im Angebot. Stöbern Sie in unserer Kategorie Kühl-Gefrierkombinationen und finden Sie das passende Gerät für Ihre Bedürfnisse."
-          },
-          {
-            "title": "Haushaltsgeräte",
-            "text": "In unserem Online-Shop Instrumentix bieten wir auch eine breite Auswahl an <a href=\"/kategorie/haushaltsgeraete/\" title=\"Haushaltsgeräte\">Haushaltsgeräte</a>n an. Von Waschmaschinen und Trocknern bis hin zu Kaffeemaschinen und Toastern, wir haben alles im Angebot. Unsere Haushaltsgeräte sind von hoher Qualität und von bekannten Markenherstellern. Stöbern Sie in unserer Kategorie Haushaltsgeräte und finden Sie das perfekte Gerät für Ihre Bedürfnisse."
-          },
-          {
-            "title": "Weitere Küchenkleingeräte",
-            "text": "In unserem Online-Shop Instrumentix bieten wir eine breite Auswahl an weiteren Küchenkleingeräten an. Von Mixern und Toastern bis hin zu Mikrowellen und Entsaftern, wir haben alles im Angebot. Unsere Geräte sind von hoher Qualität und von bekannten Markenherstellern. Stöbern Sie in unserer Kategorie '<a href=\"/kategorie/weitere-kuechenkleingeraete/\" title=\"Weitere Küchenkleingeräte\">Weitere Küchenkleingeräte</a>' und finden Sie das perfekte Gerät für Ihre Bedürfnisse."
-          },
-          {
-            "title": "Kochfelder",
-            "text": "In unserem Online-Shop Instrumentix bieten wir auch eine große Auswahl an <a href=\"/kategorie/kochfelder/\" title=\"Kochfelder\">Kochfelder</a>n an. Unsere Kochfelder sind in verschiedenen Größen und Designs erhältlich und von bekannten Markenherstellern. Ob Sie ein Kochfeld mit Induktion oder ein traditionelles Kochfeld mit Gas suchen, wir haben es im Angebot. Stöbern Sie in unserer Kategorie 'Kochfelder' und finden Sie das passende Gerät für Ihre Bedürfnisse."
-          },
-          {
-            "title": "Glaskeramik-Kochfelder",
-            "text": "In unserem Online-Shop Instrumentix bieten wir auch eine breite Auswahl an <a href=\"/kategorie/glaskeramik-kochfelder/\" title=\"Glaskeramik-Kochfelder\">Glaskeramik-Kochfelder</a>n an. Diese Kochfelder sind besonders langlebig und pflegeleicht. Wir haben Glaskeramik-Kochfelder in verschiedenen Größen und Designs im Angebot. Stöbern Sie in unserer Kategorie 'Glaskeramik-Kochfelder' und finden Sie das perfekte Gerät für Ihre Bedürfnisse."
-          },
-          {
-            "title": "Einbaukühlschränke",
-            "text": "In unserem Online-Shop Instrumentix bieten wir eine breite Auswahl an <a href=\"/kategorie/einbaukuehlschraenke/\" title=\"Einbaukühlschränke\">Einbaukühlschränke</a>n an. Diese Geräte sind perfekt für diejenigen, die ihren Kühlschrank in die Küchenmöbel integrieren möchten. Wir haben Einbaukühlschränke in verschiedenen Größen und von renommierten Markenherstellern im Angebot. Stöbern Sie in unserer Kategorie 'Einbaukühlschränke' und finden Sie das passende Gerät für Ihre Bedürfnisse."
-          },
-          {
-            "title": "Kochplatten",
-            "text": "In unserem Online-Shop Instrumentix bieten wir auch eine große Auswahl an <a href=\"/kategorie/kochplatten/\" title=\"Kochplatten\">Kochplatten</a> an. Unsere Kochplatten sind in verschiedenen Größen und Designs erhältlich und von bekannten Markenherstellern. Ob Sie eine Kochplatte mit Induktion oder eine traditionelle Kochplatte mit Gas suchen, wir haben es im Angebot. Stöbern Sie in unserer Kategorie 'Kochplatten' und finden Sie das passende Gerät für Ihre Bedürfnisse."
-          },
-          {
-            "title": "Retro-Kühlschränke",
-            "text": "In unserem Online-Shop Instrumentix bieten wir auch eine breite Auswahl an <a href=\"/kategorie/retro-kuehlschraenke/\" title=\"Retro-Kühlschränke\">Retro-Kühlschränke</a>n an. Diese Kühlschränke haben ein zeitloses und klassisches Design und sind perfekt für diejenigen, die einen Kühlschrank suchen, der gut zu ihrem Interieur passt. Wir haben Retro-Kühlschränke in verschiedenen Größen und Farben im Angebot. Stöbern Sie in unserer Kategorie 'Retro-Kühlschränke' und finden Sie das perfekte Gerät für Ihre Bedürfnisse."
-          },
-          {
-            "title": "Standkühlschränke",
-            "text": "In unserem Online-Shop Instrumentix bieten wir eine breite Auswahl an <a href=\"/kategorie/standkuehlschraenke/\" title=\"Standkühlschränke\">Standkühlschränke</a>n an. Diese Geräte stehen auf dem Boden und sind perfekt für diejenigen, die keinen Einbaukühlschrank möchten. Wir haben Standkühlschränke in verschiedenen Größen und von renommierten Markenherstellern im Angebot. Stöbern Sie in unserer Kategorie 'Standkühlschränke' und finden Sie das passende Gerät für Ihre Bedürfnisse."
-          },
-          {
-            "title": "Unterbau-Kühlschränke",
-            "text": "In unserem Online-Shop Instrumentix bieten wir auch eine große Auswahl an <a href=\"/kategorie/unterbau-kuehlschraenke/\" title=\"Unterbau-Kühlschränke\">Unterbau-Kühlschränke</a>n an. Diese Geräte werden unter die Arbeitsplatte eingebaut und sind perfekt für diejenigen, die mehr Stauraum in der Küche benötigen. Wir haben Unterbau-Kühlschränke in verschiedenen Größen und von bekannten Markenherstellern im Angebot. Stöbern Sie in unserer Kategorie 'Unterbau-Kühlschränke' und finden Sie das passende Gerät für Ihre Bedürfnisse."
-          },
-          {
-            "title": "Waschmaschinen",
-            "text": "In unserem Online-Shop Instrumentix bieten wir auch eine breite Auswahl an <a href=\"/kategorie/waschmaschinen/\" title=\"Waschmaschinen\">Waschmaschinen</a> an. Von kleinen Waschmaschinen für Singles bis hin zu großen Waschmaschinen für Familien, wir haben alles im Angebot. Unsere Waschmaschinen sind von hoher Qualität und von bekannten Markenherstellern. Stöbern Sie in unserer Kategorie 'Waschmaschinen' und finden Sie das perfekte Gerät für Ihre Bedürfnisse."
-          },
-          {
-            "title": "Frontlader-Waschmaschinen",
-            "text": "In unserem Online-Shop Instrumentix bieten wir eine breite Auswahl an <a href=\"/kategorie/frontlader-waschmaschinen/\" title=\"Frontlader-Waschmaschinen\">Frontlader-Waschmaschinen</a> an. Diese Waschmaschinen haben eine Tür an der Vorderseite und sind perfekt für diejenigen, die eine einfache Bedienung bevorzugen. Wir haben Frontlader-Waschmaschinen in verschiedenen Größen und von renommierten Markenherstellern im Angebot. Stöbern Sie in unserer Kategorie 'Frontlader-Waschmaschinen' und finden Sie das passende Gerät für Ihre Bedürfnisse."
-          },
-          {
-            "title": "Geschirrspüler",
-            "text": "In unserem Online-Shop Instrumentix bieten wir auch eine große Auswahl an <a href=\"/kategorie/geschirrspueler/\" title=\"Geschirrspüler\">Geschirrspüler</a>n an. Diese Geräte erleichtern Ihnen die tägliche Reinigung von Geschirr und sind eine große Zeitersparnis. Wir haben Geschirrspüler in verschiedenen Größen und von bekannten Markenherstellern im Angebot. Stöbern Sie in unserer Kategorie 'Geschirrspüler' und finden Sie das passende Gerät für Ihre Bedürfnisse."
-          },
-          {
-            "title": "Standgeschirrspüler",
-            "text": "In unserem Online-Shop Instrumentix bieten wir auch eine breite Auswahl an <a href=\"/kategorie/standgeschirrspueler/\" title=\"Standgeschirrspüler\">Standgeschirrspüler</a>n an. Diese Geräte stehen auf dem Boden und sind perfekt für diejenigen, die keinen integrierten Geschirrspüler möchten. Wir haben Standgeschirrspüler in verschiedenen Größen und von renommierten Markenherstellern im Angebot. Stöbern Sie in unserer Kategorie 'Standgeschirrspüler' und finden Sie das passende Gerät für Ihre Bedürfnisse."
-          },
-          {
-            "title": "Mikrowellen",
-            "text": "In unserem Online-Shop Instrumentix bieten wir eine breite Auswahl an <a href=\"/kategorie/mikrowellen/\" title=\"Mikrowellen\">Mikrowellen</a> an. Diese Geräte sind eine schnelle und einfache Lösung zum Erwärmen von Speisen. Wir haben Mikrowellen in verschiedenen Größen und von renommierten Markenherstellern im Angebot. Stöbern Sie in unserer Kategorie 'Mikrowellen' und finden Sie das passende Gerät für Ihre Bedürfnisse."
-          },
-          {
-            "title": "Toaster",
-            "text": "In unserem Online-Shop Instrumentix bieten wir auch eine große Auswahl an <a href=\"/kategorie/toaster/\" title=\"Toaster\">Toaster</a>n an. Diese Geräte sind einfach zu bedienen und eine schnelle Lösung zum Toasten von Brot. Wir haben Toaster in verschiedenen Größen und von bekannten Markenherstellern im Angebot. Stöbern Sie in unserer Kategorie 'Toaster' und finden Sie das passende Gerät für Ihre Bedürfnisse."
-          },
-          {
-            "title": "Küchenmaschinen",
-            "text": "In unserem Online-Shop Instrumentix bieten wir auch eine breite Auswahl an <a href=\"/kategorie/kuechenmaschinen/\" title=\"Küchenmaschinen\">Küchenmaschinen</a> an. Diese Geräte erleichtern Ihnen die tägliche Arbeit in der Küche und sind eine große Zeitersparnis. Wir haben Küchenmaschinen in verschiedenen Größen und von renommierten Markenherstellern im Angebot. Stöbern Sie in unserer Kategorie 'Küchenmaschinen' und finden Sie das passende Gerät für Ihre Bedürfnisse."
-          },
-          {
-            "title": "Einbaugeschirrspüler",
-            "text": "In unserem Online-Shop Instrumentix bieten wir eine breite Auswahl an <a href=\"/kategorie/einbaugeschirrspueler/\" title=\"Einbaugeschirrspüler\">Einbaugeschirrspüler</a>n an. Diese Geräte werden in die Küche eingebaut und sind perfekt für diejenigen, die eine integrierte Lösung möchten. Wir haben Einbaugeschirrspüler in verschiedenen Größen und von renommierten Markenherstellern im Angebot. Stöbern Sie in unserer Kategorie 'Einbaugeschirrspüler' und finden Sie das passende Gerät für Ihre Bedürfnisse."
-          },
-          {
-            "title": "Wasserkocher",
-            "text": "In unserem Online-Shop Instrumentix bieten wir auch eine große Auswahl an <a href=\"/kategorie/wasserkocher/\" title=\"Wasserkocher\">Wasserkocher</a>n an. Diese Geräte sind einfach zu bedienen und eine schnelle Lösung zum Kochen von Wasser. Wir haben Wasserkocher in verschiedenen Größen und von bekannten Markenherstellern im Angebot. Stöbern Sie in unserer Kategorie 'Wasserkocher' und finden Sie das passende Gerät für Ihre Bedürfnisse."
-          },
-          {
-            "title": "Mini-Kühlschränke",
-            "text": "In unserem Online-Shop Instrumentix bieten wir auch eine breite Auswahl an <a href=\"/kategorie/mini-kuehlschraenke/\" title=\"Mini-Kühlschränke\">Mini-Kühlschränke</a>n an. Diese Geräte sind kleiner als reguläre Kühlschränke und perfekt für den Einsatz in kleineren Räumen oder als Zweitkühlschrank. Wir haben Mini-Kühlschränke in verschiedenen Größen und von renommierten Markenherstellern im Angebot. Stöbern Sie in unserer Kategorie 'Mini-Kühlschränke' und finden Sie das passende Gerät für Ihre Bedürfnisse."
-          },
-          {
-            "title": "Gefrierschränke",
-            "text": "In unserem Online-Shop Instrumentix bieten wir eine große Auswahl an <a href=\"/kategorie/gefrierschraenke/\" title=\"Gefrierschränke\">Gefrierschränke</a>n an. Diese Geräte sind ideal zur Aufbewahrung von Tiefkühlkost und sorgen dafür, dass diese länger frisch bleibt. Wir haben Gefrierschränke in verschiedenen Größen und von bekannten Markenherstellern im Angebot. Stöbern Sie in unserer Kategorie 'Gefrierschränke' und finden Sie das passende Gerät für Ihre Bedürfnisse."
-          },
-          {
-            "title": "Tiefkühlschränke",
-            "text": "In unserem Online-Shop Instrumentix bieten wir auch eine breite Auswahl an <a href=\"/kategorie/tiefkuehlschraenke/\" title=\"Tiefkühlschränke\">Tiefkühlschränke</a>n an. Diese Geräte sind ideal zur Aufbewahrung von Tiefkühlkost und sorgen dafür, dass diese länger frisch bleibt. Wir haben Tiefkühlschränke in verschiedenen Größen und von renommierten Markenherstellern im Angebot. Stöbern Sie in unserer Kategorie 'Tiefkühlschränke' und finden Sie das passende Gerät für Ihre Bedürfnisse."
-          },
-          {
-            "title": "Backöfen",
-            "text": "In unserem Online-Shop Instrumentix bieten wir auch eine große Auswahl an <a href=\"/kategorie/backoefen/\" title=\"Backöfen\">Backöfen</a> an. Diese Geräte sind ideal zum Backen und Kochen von Speisen und haben viele praktische Funktionen. Wir haben Backöfen in verschiedenen Größen und von bekannten Markenherstellern im Angebot. Stöbern Sie in unserer Kategorie 'Backöfen' und finden Sie das passende Gerät für Ihre Bedürfnisse."
-          },
-          {
-            "title": "Einbaubacköfen",
-            "text": "In unserem Online-Shop Instrumentix bieten wir eine große Auswahl an <a href=\"/kategorie/einbaubackoefen/\" title=\"Einbaubacköfen\">Einbaubacköfen</a> an. Diese Geräte eignen sich ideal für eine moderne Kücheneinrichtung und können perfekt in eine Küchenzeile integriert werden. Wir haben Einbaubacköfen in verschiedenen Größen und von renommierten Markenherstellern im Angebot. Stöbern Sie in unserer Kategorie 'Einbaubacköfen' und finden Sie das passende Gerät für Ihre Bedürfnisse."
-          },
-          {
-            "title": "Mixer & Handrührgeräte",
-            "text": "In unserem Online-Shop Instrumentix bieten wir auch eine große Auswahl an Mixern und Handrührgeräten an. Diese Geräte sind ideal für das Zubereiten von Teigen und Saucen und haben viele praktische Funktionen. Wir haben Mixer und Handrührgeräte von bekannten Markenherstellern im Angebot. Stöbern Sie in unserer Kategorie '<a href=\"/kategorie/mixer-handruehrgeraete/\" title=\"Mixer & Handrührgeräte\">Mixer & Handrührgeräte</a>' und finden Sie das passende Gerät für Ihre Bedürfnisse."
-          },
-          {
-            "title": "Herde",
-            "text": "In unserem Online-Shop Instrumentix bieten wir auch eine breite Auswahl an <a href=\"/kategorie/herde/\" title=\"Herde\">Herde</a>n an. Diese Geräte eignen sich ideal für das Kochen und Backen von Speisen und haben viele praktische Funktionen. Wir haben Herde in verschiedenen Größen und von renommierten Markenherstellern im Angebot. Stöbern Sie in unserer Kategorie 'Herde' und finden Sie das passende Gerät für Ihre Bedürfnisse."
-          },
-          {
-            "title": "Elektroherde",
-            "text": "Entdecken Sie bei Instrumentix eine große Auswahl an <a href=\"/kategorie/elektroherde/\" title=\"Elektroherde\">Elektroherde</a>n. Von einfachen Modellen für den täglichen Gebrauch bis hin zu hochmodernen Geräten mit zahlreichen Funktionen - bei uns finden Sie garantiert das passende Modell für Ihre Bedürfnisse. Unsere Elektroherde sind von höchster Qualität und bieten eine lange Lebensdauer. Überzeugen Sie sich selbst und besuchen Sie uns noch heute."
-          },
-          {
-            "title": "Induktionskochfelder",
-            "text": "Erleben Sie mit den <a href=\"/kategorie/induktionskochfelder/\" title=\"Induktionskochfelder\">Induktionskochfelder</a>n von Instrumentix ein neues Zeitalter der Kocherfahrung. Dank ihrer innovativen Technologie sind diese Kochfelder besonders energieeffizient und sicher. Die schnelle und präzise Regulierung der Kochstelle macht das Kochen zu einem Vergnügen. Entdecken Sie jetzt unsere große Auswahl an Induktionskochfeldern und finden Sie das perfekte Modell für Ihre Küche."
-          },
-          {
-            "title": "Backofen-Sets",
-            "text": "Vereinfachen Sie Ihre Kücheneinrichtung mit den praktischen <a href=\"/kategorie/backofen-sets/\" title=\"Backofen-Sets\">Backofen-Sets</a> von Instrumentix. Hier finden Sie alles, was Sie für eine vollständige und moderne Kücheneinrichtung benötigen. Die Sets bestehen aus einem Backofen und einem Kochfeld und sind in verschiedenen Größen und Ausführungen erhältlich. Überzeugen Sie sich selbst von der Qualität und dem praktischen Nutzen unserer Backofen-Sets."
-          },
-          {
-            "title": "Zubehör für Waschmaschinen",
-            "text": "Instrumentix bietet eine große Auswahl an <a href=\"/kategorie/zubehoer-fuer-waschmaschinen/\" title=\"Zubehör für Waschmaschinen\">Zubehör für Waschmaschinen</a>. Von Waschmaschinen-Sets bis hin zu Ersatzteilen, finden Sie alles, was Sie für eine reibungslose Reinigung benötigen. Verwandeln Sie Ihre Waschmaschine in eine effiziente Reinigungsmaschine mit dem richtigen Zubehör."
-          },
-          {
-            "title": "Wäschetrockner",
-            "text": "Instrumentix ist Ihr zuverlässiger Anbieter für <a href=\"/kategorie/waeschetrockner/\" title=\"Wäschetrockner\">Wäschetrockner</a>. Wir bieten eine breite Palette an Wäschetrocknern in verschiedenen Größen und Farben, die perfekt auf Ihre Bedürfnisse abgestimmt sind. Unsere Wäschetrockner sind energiesparend und haben eine lange Lebensdauer."
-          },
-          {
-            "title": "Kondenstrockner",
-            "text": "Entdecken Sie die Vorteile von <a href=\"/kategorie/kondenstrockner/\" title=\"Kondenstrockner\">Kondenstrockner</a>n bei Instrumentix. Unsere Kondenstrockner verwenden eine einzigartige Technologie, die Feuchtigkeit aus der Kleidung extrahiert, um ein schnelleres Trocknen zu ermöglichen. Diese Trockner sind platzsparend und kosteneffizient, perfekt für jedes Zuhause."
-          }
-        ]
-      }
-    },
-    "shop": {
-      "title": "Elektrogeräte | Der Online Shop",
-      "metaDescription": "Bei uns im Shop! | Kaufen Sie Elektro-Haushaltsgeräte wie Kühlschrank, Waschmaschine & Co. sowie Kleingeräte wie Toaster, Mixer & Co. einfach online!",
-      "robots": "index, follow"
-    },
-    "hersteller": {
-      "title": "Elektrogeräte | Top Marken",
-      "metaDescription": "Hier finden Sie eine Auflistung all unserer Hersteller für Elektrogeräte | Unser Shop führt ausschließlich Top Marken wie Respekta, Wolkenstein, PKM & mehr! ",
-      "robots": "index, follow"
-    }
-  },
-  "productSeo": {
-    "defaultTitle": "$PRODUKT | günstiger kaufen",
-    "defaultMetaDescription": "Produkte wie $PRODUKT | Von namhaften Herstellern wie $HERSTELLER | Und viele weitere langlebige Produkte in der Kategorie $KATEGORIE. | Bei uns erhältlich!",
-    "defaultRobots": "index, follow",
-    "products": [
-      {
-        "sku": "5637909794",
-        "name": "Ortovox PALA PANTS Kletterhose",
-        "seo": {
-          "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-          "robots": "index, follow"
-        }
-      },
-      {
-        "sku": "5712864",
-        "seo": {
-          "texts": [
-            {
-              "title": "Wolkenstein Vintage Kühl-Gefrierkombination WGK218RT FR Rot EEK: E",
-              "text": "<p class=\"justify\">Die Wolkenstein Vintage Kühl-Gefrierkombination WGK218RT FR Rot ist ein stilvolles und funktionales Gerät, das sich perfekt in jede moderne Küche einfügt. Das charmante Retro-Design und die moderne Technik machen diese Kühl-Gefrierkombination zu einem echten Hingucker in Ihrem Zuhause. Mit der Energieeffizienzklasse E ist dieses Gerät nicht nur äußerst energieeffizient, sondern auch umweltfreundlich.</p><p class=\"justify\">Das 4-Sterne-Gefrierfach bietet ausreichend Platz zur optimalen Lagerung Ihrer Lebensmittel, während der gut dimensionierte Kühlraum ideal für 1-2 Personen Haushalte und Kleinfamilien ist. Der Kühlschrank verfügt über 5 Türablagen, die ein hohes Maß an Flexibilität bei der Lagerung von Getränken und Lebensmitteln bieten. Das automatische Abtauen im Kühlteil und der besonders leise Betrieb, mit einer Lautstärke von nur 41 dB/A, machen diesen Wolkenstein Vintage Kühl-Gefrierkombination ausgesprochen benutzerfreundlich.</p><p class=\"justify\">Die Wolkenstein Vintage Kühl-Gefrierkombination WGK218RT FR Rot gehört zur Kategorie der Retro-Kühlschränke und ist eine ausgezeichnete Wahl für alle, die Wert auf Stil und Funktionalität legen. Die schicke rote Farbe und das ansprechende Vintage-Design verleihen jeder Küche ein besonderes Flair und bringen ein nostalgisches Gefühl in Ihren Alltag. Der Kühlschrank ist auch mit der GTIN13 4030608217018 gekennzeichnet. Tauchen Sie ein in die Welt der Retro-Kühlschränke und genießen Sie den Komfort und die Zuverlässigkeit dieser wunderbaren Wolkenstein Vintage Kühl-Gefrierkombination WGK218RT FR Rot EEK: E.</p>"
+    "configIsReady": true,
+    "domain": "instrumentix.de",
+    "hostname": "https://www.instrumentix.de/",
+    "email": "instrumentix.de@surrealnetworks.io",
+    "organization": "instrumentix.de",
+    "logoText": "Instrumentix.de",
+    "title": "Elektrogeräte",
+    "subline": "Der Online Shop: Elektrogeräte für jeden Fall",
+    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+    "imageFolder": "/assets/images/images/",
+    "productUrl": "/produkt/",
+    "kategorieUrl": "/kategorie/",
+    "numberOfProductsOnStartpage": 18,
+    "numberMaximumProductsPerCategory": 100,
+    "numberOfRelevantProduct": 12,
+    "popularProducts": [
+        "5255476",
+        "8631061",
+        "1834647",
+        "8474512",
+        "5713078",
+        "2137297"
+    ],
+    "winnerProducts": [
+        "5712864",
+        "9339458",
+        "5712864"
+    ],
+    "featuredCategories": [
+        "Frontlader-Waschmaschinen",
+        "Haushaltsgeräte",
+        "Geschirrspüler",
+        "Mikrowellen",
+        "Kondenstrockner",
+        "Kochfelder"
+    ],
+    "socialMediaAccounts": [],
+    "imageQuality": 90,
+    "checklist": [
+        "Material",
+        "Komfort",
+        "Funktion",
+        "Haltbarkeit"
+    ],
+    "seo": {
+        "htmlLang": "de",
+        "mainKeyword": "Elektrogeräte",
+        "featureText": "Willkommen in unserem Shop für Elektrogeräte! Bei uns finden Sie Elektrogeräte in sämtlichen Ausführungen. Zum einem größeren Elektrogeräte wie Kühlschränke, Waschmaschinen, Wäschetrockner, Geschirrspüler, Backöfen und mehr. Zum anderen bieten wir Ihnen auch Küchenkleingeräte wie Toaster, Mikrowellen, Wasserkocher, Mixer, Mini-Kühlschränke uvm. Unser Angebot ist ausgesprochen umfangreich, sodass wirklich jeder das passende Produkt findet! Schauen Sie gerne in die einzelnen Kategorien oder suchen Sie Ihr Wunsch-Gerät über unsere Hersteller-Liste. Viel Spaß!",
+        "index": {
+            "title": "Elektrogeräte | günstig online kaufen",
+            "metaDescription": "Haushaltsgeräte wie: Kühlschrank • Geschirrspüler • Kochfeld • Herd • Waschmaschine  • Trockner uvm. | Küchenkleingeräte wie Mixer • Toaster • Mikrowelle & mehr",
+            "robots": "index, follow",
+            "seotext": {
+                "published": true,
+                "content": [
+                    {
+                        "title": "Willkommen bei Instrumentix",
+                        "text": "Instrumentix ist Ihr Online-Shop für Elektrogeräte jeglicher Art. Wir bieten Ihnen eine breite Auswahl an Kühlschränken, Haushaltsgeräten, Kochfeldern, Waschmaschinen, Geschirrspülern, Mikrowellen, Toastern, Küchenmaschinen, Wasserkochern, Gefrierschränken, Backöfen, Mixern & Handrührgeräten, Herden, Elektroherden, Induktionskochfeldern und vielem mehr. Unsere Kategorien sind übersichtlich gestaltet, damit Sie schnell und einfach das gewünschte Produkt finden. Wir legen großen Wert auf Qualität und bieten Ihnen daher nur hochwertige Elektrogeräte zu fairen Preisen. Entdecken Sie jetzt unser Sortiment und finden Sie das perfekte Gerät für Ihre Bedürfnisse. Bei Fragen stehen wir Ihnen jederzeit zur Verfügung. Willkommen bei Instrumentix!"
+                    },
+                    {
+                        "title": "Kühlschränke",
+                        "text": "In unserem Online-Shop Instrumentix bieten wir eine breite Auswahl an <a href=\"/kategorie/kuehlschraenke/\" title=\"Kühlschränke\">Kühlschränke</a>n an. Von kleinen Kühlschränken für die Küche bis hin zu großen Modellen für den Keller, wir haben alles im Angebot. Unsere Kühlschränke sind von hoher Qualität und bekannten Markenherstellern. Stöbern Sie in unserer Kategorie Kühlschränke und finden Sie das perfekte Gerät für Ihre Bedürfnisse."
+                    },
+                    {
+                        "title": "Kühl-Gefrierkombinationen",
+                        "text": "In unserem Online-Shop Instrumentix bieten wir auch eine große Auswahl an <a href=\"/kategorie/kuehl-gefrierkombinationen/\" title=\"Kühl-Gefrierkombinationen\">Kühl-Gefrierkombinationen</a> an. Diese Geräte sind perfekt für diejenigen, die sowohl Kühl- als auch Gefrierfächer benötigen. Wir haben Kühl-Gefrierkombinationen in verschiedenen Größen und von renommierten Markenherstellern im Angebot. Stöbern Sie in unserer Kategorie Kühl-Gefrierkombinationen und finden Sie das passende Gerät für Ihre Bedürfnisse."
+                    },
+                    {
+                        "title": "Haushaltsgeräte",
+                        "text": "In unserem Online-Shop Instrumentix bieten wir auch eine breite Auswahl an <a href=\"/kategorie/haushaltsgeraete/\" title=\"Haushaltsgeräte\">Haushaltsgeräte</a>n an. Von Waschmaschinen und Trocknern bis hin zu Kaffeemaschinen und Toastern, wir haben alles im Angebot. Unsere Haushaltsgeräte sind von hoher Qualität und von bekannten Markenherstellern. Stöbern Sie in unserer Kategorie Haushaltsgeräte und finden Sie das perfekte Gerät für Ihre Bedürfnisse."
+                    },
+                    {
+                        "title": "Weitere Küchenkleingeräte",
+                        "text": "In unserem Online-Shop Instrumentix bieten wir eine breite Auswahl an weiteren Küchenkleingeräten an. Von Mixern und Toastern bis hin zu Mikrowellen und Entsaftern, wir haben alles im Angebot. Unsere Geräte sind von hoher Qualität und von bekannten Markenherstellern. Stöbern Sie in unserer Kategorie '<a href=\"/kategorie/weitere-kuechenkleingeraete/\" title=\"Weitere Küchenkleingeräte\">Weitere Küchenkleingeräte</a>' und finden Sie das perfekte Gerät für Ihre Bedürfnisse."
+                    },
+                    {
+                        "title": "Kochfelder",
+                        "text": "In unserem Online-Shop Instrumentix bieten wir auch eine große Auswahl an <a href=\"/kategorie/kochfelder/\" title=\"Kochfelder\">Kochfelder</a>n an. Unsere Kochfelder sind in verschiedenen Größen und Designs erhältlich und von bekannten Markenherstellern. Ob Sie ein Kochfeld mit Induktion oder ein traditionelles Kochfeld mit Gas suchen, wir haben es im Angebot. Stöbern Sie in unserer Kategorie 'Kochfelder' und finden Sie das passende Gerät für Ihre Bedürfnisse."
+                    },
+                    {
+                        "title": "Glaskeramik-Kochfelder",
+                        "text": "In unserem Online-Shop Instrumentix bieten wir auch eine breite Auswahl an <a href=\"/kategorie/glaskeramik-kochfelder/\" title=\"Glaskeramik-Kochfelder\">Glaskeramik-Kochfelder</a>n an. Diese Kochfelder sind besonders langlebig und pflegeleicht. Wir haben Glaskeramik-Kochfelder in verschiedenen Größen und Designs im Angebot. Stöbern Sie in unserer Kategorie 'Glaskeramik-Kochfelder' und finden Sie das perfekte Gerät für Ihre Bedürfnisse."
+                    },
+                    {
+                        "title": "Einbaukühlschränke",
+                        "text": "In unserem Online-Shop Instrumentix bieten wir eine breite Auswahl an <a href=\"/kategorie/einbaukuehlschraenke/\" title=\"Einbaukühlschränke\">Einbaukühlschränke</a>n an. Diese Geräte sind perfekt für diejenigen, die ihren Kühlschrank in die Küchenmöbel integrieren möchten. Wir haben Einbaukühlschränke in verschiedenen Größen und von renommierten Markenherstellern im Angebot. Stöbern Sie in unserer Kategorie 'Einbaukühlschränke' und finden Sie das passende Gerät für Ihre Bedürfnisse."
+                    },
+                    {
+                        "title": "Kochplatten",
+                        "text": "In unserem Online-Shop Instrumentix bieten wir auch eine große Auswahl an <a href=\"/kategorie/kochplatten/\" title=\"Kochplatten\">Kochplatten</a> an. Unsere Kochplatten sind in verschiedenen Größen und Designs erhältlich und von bekannten Markenherstellern. Ob Sie eine Kochplatte mit Induktion oder eine traditionelle Kochplatte mit Gas suchen, wir haben es im Angebot. Stöbern Sie in unserer Kategorie 'Kochplatten' und finden Sie das passende Gerät für Ihre Bedürfnisse."
+                    },
+                    {
+                        "title": "Retro-Kühlschränke",
+                        "text": "In unserem Online-Shop Instrumentix bieten wir auch eine breite Auswahl an <a href=\"/kategorie/retro-kuehlschraenke/\" title=\"Retro-Kühlschränke\">Retro-Kühlschränke</a>n an. Diese Kühlschränke haben ein zeitloses und klassisches Design und sind perfekt für diejenigen, die einen Kühlschrank suchen, der gut zu ihrem Interieur passt. Wir haben Retro-Kühlschränke in verschiedenen Größen und Farben im Angebot. Stöbern Sie in unserer Kategorie 'Retro-Kühlschränke' und finden Sie das perfekte Gerät für Ihre Bedürfnisse."
+                    },
+                    {
+                        "title": "Standkühlschränke",
+                        "text": "In unserem Online-Shop Instrumentix bieten wir eine breite Auswahl an <a href=\"/kategorie/standkuehlschraenke/\" title=\"Standkühlschränke\">Standkühlschränke</a>n an. Diese Geräte stehen auf dem Boden und sind perfekt für diejenigen, die keinen Einbaukühlschrank möchten. Wir haben Standkühlschränke in verschiedenen Größen und von renommierten Markenherstellern im Angebot. Stöbern Sie in unserer Kategorie 'Standkühlschränke' und finden Sie das passende Gerät für Ihre Bedürfnisse."
+                    },
+                    {
+                        "title": "Unterbau-Kühlschränke",
+                        "text": "In unserem Online-Shop Instrumentix bieten wir auch eine große Auswahl an <a href=\"/kategorie/unterbau-kuehlschraenke/\" title=\"Unterbau-Kühlschränke\">Unterbau-Kühlschränke</a>n an. Diese Geräte werden unter die Arbeitsplatte eingebaut und sind perfekt für diejenigen, die mehr Stauraum in der Küche benötigen. Wir haben Unterbau-Kühlschränke in verschiedenen Größen und von bekannten Markenherstellern im Angebot. Stöbern Sie in unserer Kategorie 'Unterbau-Kühlschränke' und finden Sie das passende Gerät für Ihre Bedürfnisse."
+                    },
+                    {
+                        "title": "Waschmaschinen",
+                        "text": "In unserem Online-Shop Instrumentix bieten wir auch eine breite Auswahl an <a href=\"/kategorie/waschmaschinen/\" title=\"Waschmaschinen\">Waschmaschinen</a> an. Von kleinen Waschmaschinen für Singles bis hin zu großen Waschmaschinen für Familien, wir haben alles im Angebot. Unsere Waschmaschinen sind von hoher Qualität und von bekannten Markenherstellern. Stöbern Sie in unserer Kategorie 'Waschmaschinen' und finden Sie das perfekte Gerät für Ihre Bedürfnisse."
+                    },
+                    {
+                        "title": "Frontlader-Waschmaschinen",
+                        "text": "In unserem Online-Shop Instrumentix bieten wir eine breite Auswahl an <a href=\"/kategorie/frontlader-waschmaschinen/\" title=\"Frontlader-Waschmaschinen\">Frontlader-Waschmaschinen</a> an. Diese Waschmaschinen haben eine Tür an der Vorderseite und sind perfekt für diejenigen, die eine einfache Bedienung bevorzugen. Wir haben Frontlader-Waschmaschinen in verschiedenen Größen und von renommierten Markenherstellern im Angebot. Stöbern Sie in unserer Kategorie 'Frontlader-Waschmaschinen' und finden Sie das passende Gerät für Ihre Bedürfnisse."
+                    },
+                    {
+                        "title": "Geschirrspüler",
+                        "text": "In unserem Online-Shop Instrumentix bieten wir auch eine große Auswahl an <a href=\"/kategorie/geschirrspueler/\" title=\"Geschirrspüler\">Geschirrspüler</a>n an. Diese Geräte erleichtern Ihnen die tägliche Reinigung von Geschirr und sind eine große Zeitersparnis. Wir haben Geschirrspüler in verschiedenen Größen und von bekannten Markenherstellern im Angebot. Stöbern Sie in unserer Kategorie 'Geschirrspüler' und finden Sie das passende Gerät für Ihre Bedürfnisse."
+                    },
+                    {
+                        "title": "Standgeschirrspüler",
+                        "text": "In unserem Online-Shop Instrumentix bieten wir auch eine breite Auswahl an <a href=\"/kategorie/standgeschirrspueler/\" title=\"Standgeschirrspüler\">Standgeschirrspüler</a>n an. Diese Geräte stehen auf dem Boden und sind perfekt für diejenigen, die keinen integrierten Geschirrspüler möchten. Wir haben Standgeschirrspüler in verschiedenen Größen und von renommierten Markenherstellern im Angebot. Stöbern Sie in unserer Kategorie 'Standgeschirrspüler' und finden Sie das passende Gerät für Ihre Bedürfnisse."
+                    },
+                    {
+                        "title": "Mikrowellen",
+                        "text": "In unserem Online-Shop Instrumentix bieten wir eine breite Auswahl an <a href=\"/kategorie/mikrowellen/\" title=\"Mikrowellen\">Mikrowellen</a> an. Diese Geräte sind eine schnelle und einfache Lösung zum Erwärmen von Speisen. Wir haben Mikrowellen in verschiedenen Größen und von renommierten Markenherstellern im Angebot. Stöbern Sie in unserer Kategorie 'Mikrowellen' und finden Sie das passende Gerät für Ihre Bedürfnisse."
+                    },
+                    {
+                        "title": "Toaster",
+                        "text": "In unserem Online-Shop Instrumentix bieten wir auch eine große Auswahl an <a href=\"/kategorie/toaster/\" title=\"Toaster\">Toaster</a>n an. Diese Geräte sind einfach zu bedienen und eine schnelle Lösung zum Toasten von Brot. Wir haben Toaster in verschiedenen Größen und von bekannten Markenherstellern im Angebot. Stöbern Sie in unserer Kategorie 'Toaster' und finden Sie das passende Gerät für Ihre Bedürfnisse."
+                    },
+                    {
+                        "title": "Küchenmaschinen",
+                        "text": "In unserem Online-Shop Instrumentix bieten wir auch eine breite Auswahl an <a href=\"/kategorie/kuechenmaschinen/\" title=\"Küchenmaschinen\">Küchenmaschinen</a> an. Diese Geräte erleichtern Ihnen die tägliche Arbeit in der Küche und sind eine große Zeitersparnis. Wir haben Küchenmaschinen in verschiedenen Größen und von renommierten Markenherstellern im Angebot. Stöbern Sie in unserer Kategorie 'Küchenmaschinen' und finden Sie das passende Gerät für Ihre Bedürfnisse."
+                    },
+                    {
+                        "title": "Einbaugeschirrspüler",
+                        "text": "In unserem Online-Shop Instrumentix bieten wir eine breite Auswahl an <a href=\"/kategorie/einbaugeschirrspueler/\" title=\"Einbaugeschirrspüler\">Einbaugeschirrspüler</a>n an. Diese Geräte werden in die Küche eingebaut und sind perfekt für diejenigen, die eine integrierte Lösung möchten. Wir haben Einbaugeschirrspüler in verschiedenen Größen und von renommierten Markenherstellern im Angebot. Stöbern Sie in unserer Kategorie 'Einbaugeschirrspüler' und finden Sie das passende Gerät für Ihre Bedürfnisse."
+                    },
+                    {
+                        "title": "Wasserkocher",
+                        "text": "In unserem Online-Shop Instrumentix bieten wir auch eine große Auswahl an <a href=\"/kategorie/wasserkocher/\" title=\"Wasserkocher\">Wasserkocher</a>n an. Diese Geräte sind einfach zu bedienen und eine schnelle Lösung zum Kochen von Wasser. Wir haben Wasserkocher in verschiedenen Größen und von bekannten Markenherstellern im Angebot. Stöbern Sie in unserer Kategorie 'Wasserkocher' und finden Sie das passende Gerät für Ihre Bedürfnisse."
+                    },
+                    {
+                        "title": "Mini-Kühlschränke",
+                        "text": "In unserem Online-Shop Instrumentix bieten wir auch eine breite Auswahl an <a href=\"/kategorie/mini-kuehlschraenke/\" title=\"Mini-Kühlschränke\">Mini-Kühlschränke</a>n an. Diese Geräte sind kleiner als reguläre Kühlschränke und perfekt für den Einsatz in kleineren Räumen oder als Zweitkühlschrank. Wir haben Mini-Kühlschränke in verschiedenen Größen und von renommierten Markenherstellern im Angebot. Stöbern Sie in unserer Kategorie 'Mini-Kühlschränke' und finden Sie das passende Gerät für Ihre Bedürfnisse."
+                    },
+                    {
+                        "title": "Gefrierschränke",
+                        "text": "In unserem Online-Shop Instrumentix bieten wir eine große Auswahl an <a href=\"/kategorie/gefrierschraenke/\" title=\"Gefrierschränke\">Gefrierschränke</a>n an. Diese Geräte sind ideal zur Aufbewahrung von Tiefkühlkost und sorgen dafür, dass diese länger frisch bleibt. Wir haben Gefrierschränke in verschiedenen Größen und von bekannten Markenherstellern im Angebot. Stöbern Sie in unserer Kategorie 'Gefrierschränke' und finden Sie das passende Gerät für Ihre Bedürfnisse."
+                    },
+                    {
+                        "title": "Tiefkühlschränke",
+                        "text": "In unserem Online-Shop Instrumentix bieten wir auch eine breite Auswahl an <a href=\"/kategorie/tiefkuehlschraenke/\" title=\"Tiefkühlschränke\">Tiefkühlschränke</a>n an. Diese Geräte sind ideal zur Aufbewahrung von Tiefkühlkost und sorgen dafür, dass diese länger frisch bleibt. Wir haben Tiefkühlschränke in verschiedenen Größen und von renommierten Markenherstellern im Angebot. Stöbern Sie in unserer Kategorie 'Tiefkühlschränke' und finden Sie das passende Gerät für Ihre Bedürfnisse."
+                    },
+                    {
+                        "title": "Backöfen",
+                        "text": "In unserem Online-Shop Instrumentix bieten wir auch eine große Auswahl an <a href=\"/kategorie/backoefen/\" title=\"Backöfen\">Backöfen</a> an. Diese Geräte sind ideal zum Backen und Kochen von Speisen und haben viele praktische Funktionen. Wir haben Backöfen in verschiedenen Größen und von bekannten Markenherstellern im Angebot. Stöbern Sie in unserer Kategorie 'Backöfen' und finden Sie das passende Gerät für Ihre Bedürfnisse."
+                    },
+                    {
+                        "title": "Einbaubacköfen",
+                        "text": "In unserem Online-Shop Instrumentix bieten wir eine große Auswahl an <a href=\"/kategorie/einbaubackoefen/\" title=\"Einbaubacköfen\">Einbaubacköfen</a> an. Diese Geräte eignen sich ideal für eine moderne Kücheneinrichtung und können perfekt in eine Küchenzeile integriert werden. Wir haben Einbaubacköfen in verschiedenen Größen und von renommierten Markenherstellern im Angebot. Stöbern Sie in unserer Kategorie 'Einbaubacköfen' und finden Sie das passende Gerät für Ihre Bedürfnisse."
+                    },
+                    {
+                        "title": "Mixer & Handrührgeräte",
+                        "text": "In unserem Online-Shop Instrumentix bieten wir auch eine große Auswahl an Mixern und Handrührgeräten an. Diese Geräte sind ideal für das Zubereiten von Teigen und Saucen und haben viele praktische Funktionen. Wir haben Mixer und Handrührgeräte von bekannten Markenherstellern im Angebot. Stöbern Sie in unserer Kategorie '<a href=\"/kategorie/mixer-handruehrgeraete/\" title=\"Mixer & Handrührgeräte\">Mixer & Handrührgeräte</a>' und finden Sie das passende Gerät für Ihre Bedürfnisse."
+                    },
+                    {
+                        "title": "Herde",
+                        "text": "In unserem Online-Shop Instrumentix bieten wir auch eine breite Auswahl an <a href=\"/kategorie/herde/\" title=\"Herde\">Herde</a>n an. Diese Geräte eignen sich ideal für das Kochen und Backen von Speisen und haben viele praktische Funktionen. Wir haben Herde in verschiedenen Größen und von renommierten Markenherstellern im Angebot. Stöbern Sie in unserer Kategorie 'Herde' und finden Sie das passende Gerät für Ihre Bedürfnisse."
+                    },
+                    {
+                        "title": "Elektroherde",
+                        "text": "Entdecken Sie bei Instrumentix eine große Auswahl an <a href=\"/kategorie/elektroherde/\" title=\"Elektroherde\">Elektroherde</a>n. Von einfachen Modellen für den täglichen Gebrauch bis hin zu hochmodernen Geräten mit zahlreichen Funktionen - bei uns finden Sie garantiert das passende Modell für Ihre Bedürfnisse. Unsere Elektroherde sind von höchster Qualität und bieten eine lange Lebensdauer. Überzeugen Sie sich selbst und besuchen Sie uns noch heute."
+                    },
+                    {
+                        "title": "Induktionskochfelder",
+                        "text": "Erleben Sie mit den <a href=\"/kategorie/induktionskochfelder/\" title=\"Induktionskochfelder\">Induktionskochfelder</a>n von Instrumentix ein neues Zeitalter der Kocherfahrung. Dank ihrer innovativen Technologie sind diese Kochfelder besonders energieeffizient und sicher. Die schnelle und präzise Regulierung der Kochstelle macht das Kochen zu einem Vergnügen. Entdecken Sie jetzt unsere große Auswahl an Induktionskochfeldern und finden Sie das perfekte Modell für Ihre Küche."
+                    },
+                    {
+                        "title": "Backofen-Sets",
+                        "text": "Vereinfachen Sie Ihre Kücheneinrichtung mit den praktischen <a href=\"/kategorie/backofen-sets/\" title=\"Backofen-Sets\">Backofen-Sets</a> von Instrumentix. Hier finden Sie alles, was Sie für eine vollständige und moderne Kücheneinrichtung benötigen. Die Sets bestehen aus einem Backofen und einem Kochfeld und sind in verschiedenen Größen und Ausführungen erhältlich. Überzeugen Sie sich selbst von der Qualität und dem praktischen Nutzen unserer Backofen-Sets."
+                    },
+                    {
+                        "title": "Zubehör für Waschmaschinen",
+                        "text": "Instrumentix bietet eine große Auswahl an <a href=\"/kategorie/zubehoer-fuer-waschmaschinen/\" title=\"Zubehör für Waschmaschinen\">Zubehör für Waschmaschinen</a>. Von Waschmaschinen-Sets bis hin zu Ersatzteilen, finden Sie alles, was Sie für eine reibungslose Reinigung benötigen. Verwandeln Sie Ihre Waschmaschine in eine effiziente Reinigungsmaschine mit dem richtigen Zubehör."
+                    },
+                    {
+                        "title": "Wäschetrockner",
+                        "text": "Instrumentix ist Ihr zuverlässiger Anbieter für <a href=\"/kategorie/waeschetrockner/\" title=\"Wäschetrockner\">Wäschetrockner</a>. Wir bieten eine breite Palette an Wäschetrocknern in verschiedenen Größen und Farben, die perfekt auf Ihre Bedürfnisse abgestimmt sind. Unsere Wäschetrockner sind energiesparend und haben eine lange Lebensdauer."
+                    },
+                    {
+                        "title": "Kondenstrockner",
+                        "text": "Entdecken Sie die Vorteile von <a href=\"/kategorie/kondenstrockner/\" title=\"Kondenstrockner\">Kondenstrockner</a>n bei Instrumentix. Unsere Kondenstrockner verwenden eine einzigartige Technologie, die Feuchtigkeit aus der Kleidung extrahiert, um ein schnelleres Trocknen zu ermöglichen. Diese Trockner sind platzsparend und kosteneffizient, perfekt für jedes Zuhause."
+                    }
+                ]
             }
-          ]
+        },
+        "shop": {
+            "title": "Elektrogeräte | Der Online Shop",
+            "metaDescription": "Bei uns im Shop! | Kaufen Sie Elektro-Haushaltsgeräte wie Kühlschrank, Waschmaschine & Co. sowie Kleingeräte wie Toaster, Mixer & Co. einfach online!",
+            "robots": "index, follow"
+        },
+        "hersteller": {
+            "title": "Elektrogeräte | Top Marken",
+            "metaDescription": "Hier finden Sie eine Auflistung all unserer Hersteller für Elektrogeräte | Unser Shop führt ausschließlich Top Marken wie Respekta, Wolkenstein, PKM & mehr! ",
+            "robots": "index, follow"
         }
-      },
-      {
-        "sku": "9339458",
-        "seo": {
-          "texts": [
+    },
+    "productSeo": {
+        "defaultTitle": "$PRODUKT | günstiger kaufen",
+        "defaultMetaDescription": "Produkte wie $PRODUKT | Von namhaften Herstellern wie $HERSTELLER | Und viele weitere langlebige Produkte in der Kategorie $KATEGORIE. | Bei uns erhältlich!",
+        "defaultRobots": "index, follow",
+        "products": [
             {
-              "title": "PKM Kochfeld Autark EB-GK2KX: Glaskeramik-Kochfeld für jeden Haushalt",
-              "text": "<p class=\"justify\">Die Marke PKM ist bekannt für ihre qualitativ hochwertigen Produkte, und das Glaskeramik-Kochfeld PKM Kochfeld Autark EB-GK2KX ist da keine Ausnahme. Dieses Kochfeld, das unter der SKU 9339458 und der GTIN13 4030608232035 zu finden ist, eignet sich hervorragend für Single-Haushalte, Studenten- und Ferienwohnungen. Dabei fällt es in die Kategorie Glaskeramik-Kochfelder und überzeugt auch mit seinem modernen Design.</p><p class=\"justify\">Dieses autarke Kochfeld besteht aus zwei Kochfeldern mit unterschiedlichen Durchmessern, nämlich 180 mm und 145 mm. Mit einer maximalen Leistung von bis zu 3000 W lässt sich das Kochen auf dem PKM Kochfeld Autark EB-GK2KX schnell und effizient gestalten. Besonders praktisch sind die je neun Heizstufen für jedes Kochfeld, die eine genaue Wärmeregulierung ermöglichen. </p><p class=\"justify\">Die Bedienung erfolgt über Drehknebel, sodass die Handhabung sehr einfach ist. Darüber hinaus ist das Glaskeramik-Kochfeld äußerst pflegeleicht und widerstandsfähig. Die Restwärmeanzeige rundet die Ausstattung dieses Modells optimal ab und sorgt für mehr Sicherheit in der Küche.</p><p class=\"justify\">Die Maße des PKM Kochfeld Autark EB-GK2KX sind wie folgt: Aussägung B x T: 26,8 cm x 50 cm; Einbautiefe: 4,7 cm; Nettogewicht (H x B x T): 7,8 cm x 28,8 cm x 52 cm / 4,5 kg. Verpackungsmaße: 13,5 cm x 35,5 cm x 56,5 cm / 5,3 kg. Darüber hinaus ist dieses Kochfeld zu einem Preis von 99,99 € erhältlich.</p><p class=\"justify\">Mit einer durchschnittlichen Kundenbewertung von 5 Sternen (basierend auf 51 Bewertungen) ist das PKM Kochfeld Autark EB-GK2KX sowohl ein funktionales als auch ein ästhetisch ansprechendes Gerät. Es ist das perfekte Glaskeramik-Kochfeld für jeden Haushalt. Probieren Sie es selbst aus und genießen Sie das Kochen in einer neuen Dimension.</p>"
-            }
-          ]
-        }
-      }
-    ]
-  },
-  "categorySeo": {
-    "defaultTitle": "$KATEGORIE [Die besten Elektrogeräte für Ihr Zuhause]",
-    "defaultMetaDescription": "$KATEGORIE | Hier finden Sie ein riesiges Angebot an Elektrogeräten zum Thema $KATEGORIE in Top Qualität! | Jetzt bequem online kaufen! | Schnelle Lieferung!",
-    "defaultRobots": "index, follow",
-    "categories": [
-      {
-        "key": "sporthosen",
-        "slug": "sporthosen",
-        "name": "Sporthosen",
-        "seo": {
-          "title": "Sporthosen günstig kaufen",
-          "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-          "robots": "index, follow",
-          "texts": [
-            {
-              "title": "Title of a SEO Text for sporthosen",
-              "text": "Text of a SEO Text for sporthosen"
+                "sku": "5637909794",
+                "name": "Ortovox PALA PANTS Kletterhose",
+                "seo": {
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "robots": "index, follow"
+                }
             },
             {
-              "title": "New title for sporthosen",
-              "text": "new text for sporthosen"
+                "sku": "5712864",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Wolkenstein Vintage Kühl-Gefrierkombination WGK218RT FR Rot EEK: E",
+                            "text": "<p class=\"justify\">Die Wolkenstein Vintage Kühl-Gefrierkombination WGK218RT FR Rot ist ein stilvolles und funktionales Gerät, das sich perfekt in jede moderne Küche einfügt. Das charmante Retro-Design und die moderne Technik machen diese Kühl-Gefrierkombination zu einem echten Hingucker in Ihrem Zuhause. Mit der Energieeffizienzklasse E ist dieses Gerät nicht nur äußerst energieeffizient, sondern auch umweltfreundlich.</p><p class=\"justify\">Das 4-Sterne-Gefrierfach bietet ausreichend Platz zur optimalen Lagerung Ihrer Lebensmittel, während der gut dimensionierte Kühlraum ideal für 1-2 Personen Haushalte und Kleinfamilien ist. Der Kühlschrank verfügt über 5 Türablagen, die ein hohes Maß an Flexibilität bei der Lagerung von Getränken und Lebensmitteln bieten. Das automatische Abtauen im Kühlteil und der besonders leise Betrieb, mit einer Lautstärke von nur 41 dB/A, machen diesen Wolkenstein Vintage Kühl-Gefrierkombination ausgesprochen benutzerfreundlich.</p><p class=\"justify\">Die Wolkenstein Vintage Kühl-Gefrierkombination WGK218RT FR Rot gehört zur Kategorie der Retro-Kühlschränke und ist eine ausgezeichnete Wahl für alle, die Wert auf Stil und Funktionalität legen. Die schicke rote Farbe und das ansprechende Vintage-Design verleihen jeder Küche ein besonderes Flair und bringen ein nostalgisches Gefühl in Ihren Alltag. Der Kühlschrank ist auch mit der GTIN13 4030608217018 gekennzeichnet. Tauchen Sie ein in die Welt der Retro-Kühlschränke und genießen Sie den Komfort und die Zuverlässigkeit dieser wunderbaren Wolkenstein Vintage Kühl-Gefrierkombination WGK218RT FR Rot EEK: E.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "9339458",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "PKM Kochfeld Autark EB-GK2KX: Glaskeramik-Kochfeld für jeden Haushalt",
+                            "text": "<p class=\"justify\">Die Marke PKM ist bekannt für ihre qualitativ hochwertigen Produkte, und das Glaskeramik-Kochfeld PKM Kochfeld Autark EB-GK2KX ist da keine Ausnahme. Dieses Kochfeld, das unter der SKU 9339458 und der GTIN13 4030608232035 zu finden ist, eignet sich hervorragend für Single-Haushalte, Studenten- und Ferienwohnungen. Dabei fällt es in die Kategorie Glaskeramik-Kochfelder und überzeugt auch mit seinem modernen Design.</p><p class=\"justify\">Dieses autarke Kochfeld besteht aus zwei Kochfeldern mit unterschiedlichen Durchmessern, nämlich 180 mm und 145 mm. Mit einer maximalen Leistung von bis zu 3000 W lässt sich das Kochen auf dem PKM Kochfeld Autark EB-GK2KX schnell und effizient gestalten. Besonders praktisch sind die je neun Heizstufen für jedes Kochfeld, die eine genaue Wärmeregulierung ermöglichen. </p><p class=\"justify\">Die Bedienung erfolgt über Drehknebel, sodass die Handhabung sehr einfach ist. Darüber hinaus ist das Glaskeramik-Kochfeld äußerst pflegeleicht und widerstandsfähig. Die Restwärmeanzeige rundet die Ausstattung dieses Modells optimal ab und sorgt für mehr Sicherheit in der Küche.</p><p class=\"justify\">Die Maße des PKM Kochfeld Autark EB-GK2KX sind wie folgt: Aussägung B x T: 26,8 cm x 50 cm; Einbautiefe: 4,7 cm; Nettogewicht (H x B x T): 7,8 cm x 28,8 cm x 52 cm / 4,5 kg. Verpackungsmaße: 13,5 cm x 35,5 cm x 56,5 cm / 5,3 kg. Darüber hinaus ist dieses Kochfeld zu einem Preis von 99,99 € erhältlich.</p><p class=\"justify\">Mit einer durchschnittlichen Kundenbewertung von 5 Sternen (basierend auf 51 Bewertungen) ist das PKM Kochfeld Autark EB-GK2KX sowohl ein funktionales als auch ein ästhetisch ansprechendes Gerät. Es ist das perfekte Glaskeramik-Kochfeld für jeden Haushalt. Probieren Sie es selbst aus und genießen Sie das Kochen in einer neuen Dimension.</p>"
+                        }
+                    ]
+                }
             }
-          ]
+        ]
+    },
+    "categorySeo": {
+        "defaultTitle": "$KATEGORIE [Die besten Elektrogeräte für Ihr Zuhause]",
+        "defaultMetaDescription": "$KATEGORIE | Hier finden Sie ein riesiges Angebot an Elektrogeräten zum Thema $KATEGORIE in Top Qualität! | Jetzt bequem online kaufen! | Schnelle Lieferung!",
+        "defaultRobots": "index, follow",
+        "categories": [
+            {
+                "key": "sporthosen",
+                "slug": "sporthosen",
+                "name": "Sporthosen",
+                "seo": {
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "robots": "index, follow",
+                    "texts": [
+                        {
+                            "title": "Title of a SEO Text for sporthosen",
+                            "text": "Text of a SEO Text for sporthosen"
+                        },
+                        {
+                            "title": "New title for sporthosen",
+                            "text": "new text for sporthosen"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "brandSeo": {
+        "defaultTitle": "$HERSTELLER - Der Hersteller für Elektrogeräte",
+        "defaultMetaDescription": "$HERSTELLER ist ein renommierter Hersteller von Elektrogeräten für sämtliche Anwendungsbereiche. | Finden Sie bei uns hochwertige Produkte von $HERSTELLER.",
+        "defaultRobots": "index, follow",
+        "brands": [
+            {
+                "key": "palm",
+                "name": "Palm",
+                "seo": {
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
+                    "robots": "index, follow"
+                }
+            }
+        ]
+    },
+    "navigationLinks": [
+        {
+            "title": "Start",
+            "linkTo": "/",
+            "linkTitle": "Elektrogeräte",
+            "publish": true
+        },
+        {
+            "title": "Shop",
+            "linkTo": "/shop/",
+            "linkTitle": "Elektrogeräte Shop",
+            "publish": true
+        },
+        {
+            "title": "Marken",
+            "linkTo": "/marken/",
+            "linkTitle": "Elektrogeräte Marken",
+            "publish": true
+        },
+        {
+            "title": "Kontakt",
+            "linkTo": "/kontakt/",
+            "linkTitle": "Kontakt",
+            "publish": false
         }
-      }
-    ]
-  },
-  "brandSeo": {
-    "defaultTitle": "$HERSTELLER - Der Hersteller für Elektrogeräte",
-    "defaultMetaDescription": "$HERSTELLER ist ein renommierter Hersteller von Elektrogeräten für sämtliche Anwendungsbereiche. | Finden Sie bei uns hochwertige Produkte von $HERSTELLER.",
-    "defaultRobots": "index, follow",
-    "brands": [
-      {
-        "key": "palm",
-        "name": "Palm",
-        "seo": {
-          "title": "Produkte von Palm günstig kaufen",
-          "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-          "robots": "index, follow"
-        }
-      }
-    ]
-  },
-  "navigationLinks": [
-    {
-      "title": "Start",
-      "linkTo": "/",
-      "linkTitle": "Elektrogeräte",
-      "publish": true
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
     },
-    {
-      "title": "Shop",
-      "linkTo": "/shop/",
-      "linkTitle": "Elektrogeräte Shop",
-      "publish": true
+    "affiliate": {
+        "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
     },
-    {
-      "title": "Marken",
-      "linkTo": "/marken/",
-      "linkTitle": "Elektrogeräte Marken",
-      "publish": true
-    },
-    {
-      "title": "Kontakt",
-      "linkTo": "/kontakt/",
-      "linkTitle": "Kontakt",
-      "publish": false
+    "snipcart": {
+        "apiKeys": {
+            "live": "MWFmYmZjYzEtNzZhNi00NzNjLWJhYTQtMTFmYWUzZDIyYTEzNjM4MTk1NzM0NTM3MDM2Nzgy",
+            "test": "OTQzZmQ1NzAtYTNlNy00NjMxLTkxMjUtZGRiZmQwMjljNjY3NjM4MTk1NzM0NTM3MDM2Nzgy"
+        },
+        "factor": 1.1
     }
-  ],
-  "ai": {
-    "enabled": true,
-    "engine": 1
-  },
-  "affiliate": {
-    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
-  }
 }
